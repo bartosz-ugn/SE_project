@@ -1,0 +1,49 @@
+|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440062438/49577.png|,|Satsumas|,|NULL|,|16.90|
+|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647428501/cloud/220102.png|,|Broccoli|,|NULL|,|15||Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1630914452/cloud/169676.png|,|Röda druvor i ask|,|NULL|,|25|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663225310/cloud/258695.png|,|Blandfärs|,|NULL|,|59.90|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657185736/cloud/255393.png|,|Salami|,|NULL|,|24.90|
+|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635863785/cloud/238068.png|,|Tortellini/gnocchi|,|NULL|,|32.90|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637919415/cloud/155429.png|,|Samiskt Rökt Skinka|,|NULL|,|299|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636242872/cloud/190293.png|,|Spare ribs|,|NULL|,|49.90|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1583309147/395047.png|,|Färsk strimlad kycklingfilé|,|NULL|,|79.90|
+|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639727134/cloud/208289.png|,|Färdigmat|,|3 för|,|25|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631416809/cloud/163877.png|,|Lammrostbiff|,|NULL|,|259|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|14.90|
+|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1587040834/398471.png|,|Hummus|,|2 för|,|40|
+|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20|
+|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1589539623/399899.png|,|Ägg 12-pack|,|NULL|,|19.90|
+|Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647013619/cloud/249116.png|,|Limpa|,|NULL|,|22.90|
+|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530817857/318032.png|,|Vesterhavsost 29%|,|NULL|,|249|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634805268/cloud/237117.png|,|Gallus Grand Cru|,|NULL|,|299|
+|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645060239/cloud/246920.png|,|Färdigrätter|,|4 för|,|99|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530692011/312750.png|,|Polly/Bridge|,|2 för|,|36|
+|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647147763/cloud/188511.png|,|Smaksättning till vatten|,|2 för|,|89|
+|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631028831/cloud/233600.png|,|Vegetariska produkter|,|2 för|,|55|
+|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613128088/420968.png|,|Glass|,|NULL|,|44.90|
+|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1602079935/409796.png|,|Dryck med ciderkaraktär|,|2 för|,|20|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1581659935/393334.png|,|Kaffe|,|NULL|,|59.90|
+|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625957239/cloud/220747.png|,|Pastarätter|,|NULL|,|59.90|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632493731/cloud/234360.png|,|Tex Mex|,|NULL|,|25|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1536762615/349516.png|,|Tepåsar 20-25-pack|,|NULL|,|15|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653997322/cloud/252856.png|,|Pärlsocker|,|NULL|,|10.90|
+|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1606484888/413176.png|,|Kycklingdetaljer|,|NULL|,|29.90|
+|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621311767/429118.png|,|Kryddmix|,|2 för|,|25|
+|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1646736748/cloud/248804.png|,|Kronhjortskav|,|NULL|,|24.90|
+|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570693701/383670.png|,|Grön Sparris|,|NULL|,|29.90|
+|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631518352/cloud/23446.png|,|Proteinshake|,|2 för|,|45|
+|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1582051492/335442.png|,|Bars|,|3 för|,|55|
+|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609342024/415992.png|,|Tandvårdsprodukter|,|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1538273779/351453.png|,|Duschtvål &amp; Schampo|,|2 för|,|30|
+|Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1597149029/405001.png|,|Kattsnacks|,|2 för|,|24|
+|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632490655/cloud/234262.png|,|Brustabletter|,|NULL|,|49.90|
+|Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552664404/367292.png|,|Hundmat|,|NULL|,|69|
+|Bergvik|,|Diverse|,|NULL|,|Canvas 80X100 Cm|,|NULL|,|14.90|
+|Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1661339399/cloud/257358.png|,|Kaffebryggare/Brödrost/Vattenkokare|,|NULL|,|129|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653296165/cloud/224615.png|,|Batterier|,|2 för|,|39|
+|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1654059347/cloud/252938.png|,|Dryckesglas|,|NULL|,|149|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1644310767/cloud/244407.png|,|Värmeljus 30-pack|,|2 för|,|55|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639036189/cloud/240793.png|,|Stavmixer|,|NULL|,|149|
+|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663228781/cloud/258700.png|,|Rivjärn|,|NULL|,|29.90|
