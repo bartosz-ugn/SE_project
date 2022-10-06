@@ -22,7 +22,7 @@ include "dbconnection.php";
     <a href="home.php"><button class="button-9">Go back</button><A>
 <?php
 if(isset($_POST['submit']))
-{
+{   
     function validate($data){
         $data = trim($data);
         $data = stripslashes($data);
@@ -32,7 +32,9 @@ if(isset($_POST['submit']))
 
     $uname = validate($_POST['uname']);
     $password = validate($_POST['password']);
-
+    include "../login/encryption.php";
+    $uname = openssl_encrypt($uname, $ciphering, $encryption_key, $options, $encryption_iv);
+    $password = openssl_encrypt($password, $ciphering, $encryption_key, $options, $encryption_iv);
      
      $query = "INSERT INTO user (`UNAME`, `PASSWORD`) 
                VALUES ('".$uname."', '".$password."');";

@@ -1,25 +1,15 @@
 <?php 
 
 include "dbconnection.php";
+include "../login/encryption.php";
 session_start();
 $query = "SELECT * FROM user";
 $result = mysqli_query($db,$query);
 if(!$result){
      echo("<P>Error performing query: </P>");
 }
-/*if(!mysqli_num_rows($result_empty)){
-     $query = "LOAD DATA INFILE 'output.txt' INTO TABLE Product FIELDS TERMINATED BY ',' ENCLOSED BY '|' LINES TERMINATED BY '\r\n'";
-     $result = mysqli_query($db,$query);
-     if(!$result)
-     {
-     echo("<P>Error performing query: </P>");
-     }
-}*/
-
 
 if (isset($_SESSION['ADMIN_NAME'])) {
-
-
 
  ?>
 
@@ -60,12 +50,16 @@ if (isset($_SESSION['ADMIN_NAME'])) {
           echo "<form id=\"myform1\" method=\"post\">";
           while (list($ID, $UNAME, $PASSWORD) = mysqli_fetch_row($result))
           {
+          $decryption1 = openssl_decrypt ($UNAME, $ciphering, 
+               $decryption_key, $options, $decryption_iv);
+          $decryption2 = openssl_decrypt ($PASSWORD, $ciphering, 
+               $decryption_key, $options, $decryption_iv);
           echo "<tr>";
           echo "<td><input type=\"radio\" id=".$ID." value=\"".$ID."\" name=\"radio\"></td>";
           echo "<label for=\"".$ID."\">";
           echo "<td>" . $ID . "</td></label>";
-          echo "<td>" . $UNAME . "</td>";
-          echo "<td>" . $PASSWORD . "</td>";
+          echo "<td>" . $decryption1 . "</td>";
+          echo "<td>" . $decryption2 . "</td>";
           echo "</tr>";
           }
           echo "</form>";
@@ -84,7 +78,6 @@ if (isset($_SESSION['ADMIN_NAME'])) {
           if(isset($_POST['delete'])){
                if(isset($_POST['radio'])){
                     $to_be_deleted = $_POST['radio'];
-                    //echo("<P>Value of tobedeleted: </P>".$to_be_deleted);
                     $query = "DELETE FROM user WHERE ID =".$to_be_deleted.";";
                     $result = mysqli_query($db, $query);
                     if(!$result){

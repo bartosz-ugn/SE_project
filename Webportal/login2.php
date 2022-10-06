@@ -67,7 +67,6 @@
             }
         }else{
 		
-	 // header("Location: productsdb_login.php?error=".$uname . "---" . $gowno);
 
            header("Location: productsdb_login.php?error=Incorect User name or password");
 
