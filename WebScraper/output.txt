@@ -1,49 +1,1114 @@
-|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440062438/49577.png|,|Satsumas|,|NULL|,|16.90|
-|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647428501/cloud/220102.png|,|Broccoli|,|NULL|,|15||Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1630914452/cloud/169676.png|,|Röda druvor i ask|,|NULL|,|25|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663225310/cloud/258695.png|,|Blandfärs|,|NULL|,|59.90|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657185736/cloud/255393.png|,|Salami|,|NULL|,|24.90|
-|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635863785/cloud/238068.png|,|Tortellini/gnocchi|,|NULL|,|32.90|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637919415/cloud/155429.png|,|Samiskt Rökt Skinka|,|NULL|,|299|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636242872/cloud/190293.png|,|Spare ribs|,|NULL|,|49.90|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1583309147/395047.png|,|Färsk strimlad kycklingfilé|,|NULL|,|79.90|
-|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639727134/cloud/208289.png|,|Färdigmat|,|3 för|,|25|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631416809/cloud/163877.png|,|Lammrostbiff|,|NULL|,|259|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|14.90|
-|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1587040834/398471.png|,|Hummus|,|2 för|,|40|
-|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20|
-|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1589539623/399899.png|,|Ägg 12-pack|,|NULL|,|19.90|
-|Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647013619/cloud/249116.png|,|Limpa|,|NULL|,|22.90|
-|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
-|Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530817857/318032.png|,|Vesterhavsost 29%|,|NULL|,|249|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634805268/cloud/237117.png|,|Gallus Grand Cru|,|NULL|,|299|
-|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645060239/cloud/246920.png|,|Färdigrätter|,|4 för|,|99|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530692011/312750.png|,|Polly/Bridge|,|2 för|,|36|
-|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647147763/cloud/188511.png|,|Smaksättning till vatten|,|2 för|,|89|
-|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631028831/cloud/233600.png|,|Vegetariska produkter|,|2 för|,|55|
-|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613128088/420968.png|,|Glass|,|NULL|,|44.90|
-|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1602079935/409796.png|,|Dryck med ciderkaraktär|,|2 för|,|20|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1581659935/393334.png|,|Kaffe|,|NULL|,|59.90|
-|Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625957239/cloud/220747.png|,|Pastarätter|,|NULL|,|59.90|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632493731/cloud/234360.png|,|Tex Mex|,|NULL|,|25|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1536762615/349516.png|,|Tepåsar 20-25-pack|,|NULL|,|15|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653997322/cloud/252856.png|,|Pärlsocker|,|NULL|,|10.90|
-|Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1606484888/413176.png|,|Kycklingdetaljer|,|NULL|,|29.90|
-|Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621311767/429118.png|,|Kryddmix|,|2 för|,|25|
-|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1646736748/cloud/248804.png|,|Kronhjortskav|,|NULL|,|24.90|
-|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
-|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570693701/383670.png|,|Grön Sparris|,|NULL|,|29.90|
-|Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631518352/cloud/23446.png|,|Proteinshake|,|2 för|,|45|
-|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1582051492/335442.png|,|Bars|,|3 för|,|55|
-|Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609342024/415992.png|,|Tandvårdsprodukter|,|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1538273779/351453.png|,|Duschtvål &amp; Schampo|,|2 för|,|30|
-|Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1597149029/405001.png|,|Kattsnacks|,|2 för|,|24|
-|Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632490655/cloud/234262.png|,|Brustabletter|,|NULL|,|49.90|
-|Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552664404/367292.png|,|Hundmat|,|NULL|,|69|
-|Bergvik|,|Diverse|,|NULL|,|Canvas 80X100 Cm|,|NULL|,|14.90|
-|Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1661339399/cloud/257358.png|,|Kaffebryggare/Brödrost/Vattenkokare|,|NULL|,|129|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653296165/cloud/224615.png|,|Batterier|,|2 för|,|39|
-|Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1654059347/cloud/252938.png|,|Dryckesglas|,|NULL|,|149|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1644310767/cloud/244407.png|,|Värmeljus 30-pack|,|2 för|,|55|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639036189/cloud/240793.png|,|Stavmixer|,|NULL|,|149|
-|Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663228781/cloud/258700.png|,|Rivjärn|,|NULL|,|29.90|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440062438/49577.png|,|Satsumas|,|NULL|,|16.90|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647428501/cloud/220102.png|,|Broccoli|,|NULL|,|15.00|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440401600/50171.png|,|Purjolök|,|NULL|,|20.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633613538/cloud/236005.png|,|Ljung|,|NULL|,|29.00|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1608193189/415153.png|,|Ekologisk Gul lök|,|NULL|,|25.00|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636358410/cloud/62708.png|,|Brysselkål i nät|,|NULL|,|15.00|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1630914452/cloud/169676.png|,|Röda druvor i ask|,|NULL|,|25.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663225310/cloud/258695.png|,|Blandfärs|,|NULL|,|59.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657185736/cloud/255393.png|,|Salami|,|NULL|,|24.90|
+|Coop Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635863785/cloud/238068.png|,|Tortellini/gnocchi|,|NULL|,|32.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637919415/cloud/155429.png|,|Samiskt Rökt Skinka|,|NULL|,|299.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636242872/cloud/190293.png|,|Spare ribs|,|NULL|,|49.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1583309147/395047.png|,|Färsk strimlad kycklingfilé|,|NULL|,|79.90|
+|Coop Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639727134/cloud/208289.png|,|Färdigmat|,|3 för|,|25.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570011505/383056.png|,|Salami Chili|,|NULL|,|319.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1531310179/336911.png|,|Rostbiff|,|NULL|,|139.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634049189/cloud/236446.png|,|Deli falukorv|,|NULL|,|34.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530301988/309711.png|,|Cognacsmedwurst|,|NULL|,|129.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1531321816/340315.png|,|Kassler|,|NULL|,|79.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645064073/cloud/247104.png|,|Kryddiga korvar|,|NULL|,|34.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631416809/cloud/163877.png|,|Lammrostbiff|,|NULL|,|259.00|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|14.90|
+|Coop Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1587040834/398471.png|,|Hummus|,|2 för|,|40.00|
+|Coop Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1589539623/399899.png|,|Ägg 12-pack|,|NULL|,|19.90|
+|Coop Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647013619/cloud/249116.png|,|Limpa|,|NULL|,|22.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636245761/cloud/210650.png|,|Ost Familjefavoriter|,|NULL|,|69.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1586954736/398377.png|,|Laktosfri yoghurt/kefir|,|NULL|,|20.00|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613343845/421110.png|,|Laktosfri mjölkdryck|,|NULL|,|19.90|
+|Coop Bergvik|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1516349465/276470.png|,|Lagrad ost|,|NULL|,|119.00|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|39.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1580823438/392509.png|,|Laktosfri mjölkdryck|,|NULL|,|19.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637334476/cloud/208313.png|,|Ekologisk fetaost|,|NULL|,|24.90|
+|Coop Bergvik|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530817857/318032.png|,|Vesterhavsost 29%|,|NULL|,|249.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634805268/cloud/237117.png|,|Gallus Grand Cru|,|NULL|,|299.00|
+|Coop Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645060239/cloud/246920.png|,|Färdigrätter|,|4 för|,|99.00|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647147763/cloud/188511.png|,|Smaksättning till vatten|,|2 för|,|89.00|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631028831/cloud/233600.png|,|Vegetariska produkter|,|2 för|,|55.00|
+|Coop Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613128088/420968.png|,|Glass|,|NULL|,|44.90|
+|Coop Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1602079935/409796.png|,|Dryck med ciderkaraktär|,|2 för|,|20.00|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1581659935/393334.png|,|Kaffe|,|NULL|,|59.90|
+|Coop Bergvik|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625957239/cloud/220747.png|,|Pastarätter|,|NULL|,|59.90|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632493731/cloud/234360.png|,|Tex Mex|,|NULL|,|25.00|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1536762615/349516.png|,|Tepåsar 20-25-pack|,|NULL|,|15.00|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653997322/cloud/252856.png|,|Pärlsocker|,|NULL|,|10.90|
+|Coop Bergvik|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1606484888/413176.png|,|Kycklingdetaljer|,|NULL|,|29.90|
+|Coop Bergvik|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621311767/429118.png|,|Kryddmix|,|2 för|,|25.00|
+|Coop Bergvik|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1646736748/cloud/248804.png|,|Kronhjortskav|,|NULL|,|24.90|
+|Coop Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Bergvik|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570693701/383670.png|,|Grön Sparris|,|NULL|,|29.90|
+|Coop Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631518352/cloud/23446.png|,|Proteinshake|,|2 för|,|45.00|
+|Coop Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1582051492/335442.png|,|Bars|,|3 för|,|55.00|
+|Coop Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609342024/415992.png|,|Tandvårdsprodukter|,|NULL|,|NULL|
+|Coop Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1538273779/351453.png|,|Duschtvål & Schampo|,|2 för|,|30.00|
+|Coop Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1597149029/405001.png|,|Kattsnacks|,|2 för|,|24.00|
+|Coop Bergvik|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632490655/cloud/234262.png|,|Brustabletter|,|NULL|,|49.90|
+|Coop Bergvik|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552664404/367292.png|,|Hundmat|,|NULL|,|69.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653296165/cloud/224615.png|,|Batterier|,|2 för|,|39.00|
+|Coop Bergvik|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1654059347/cloud/252938.png|,|Dryckesglas|,|NULL|,|149.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1644310767/cloud/244407.png|,|Värmeljus 30-pack|,|2 för|,|55.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639036189/cloud/240793.png|,|Stavmixer|,|NULL|,|149.00|
+|Coop Bergvik|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663228781/cloud/258700.png|,|Rivjärn|,|NULL|,|29.90|
+|Coop Norrstrand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Norrstrand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Norrstrand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Norrstrand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Norrstrand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Norrstrand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Norrstrand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Norrstrand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Norrstrand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Norrstrand|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Norrstrand|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Norrstrand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Norrstrand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Norrstrand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Norrstrand|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Norrstrand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Norrstrand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Norrstrand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Norrstrand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Norrstrand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Norrstrand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Norrstrand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Norrstrand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Norrstrand|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Norrstrand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Norrstrand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Norrstrand|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Norrstrand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Herrhagen|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Herrhagen|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Herrhagen|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Herrhagen|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Herrhagen|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Herrhagen|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Herrhagen|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Herrhagen|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Herrhagen|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Herrhagen|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Herrhagen|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Herrhagen|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Herrhagen|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Herrhagen|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Herrhagen|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Herrhagen|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Herrhagen|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Herrhagen|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Herrhagen|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Herrhagen|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Herrhagen|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Herrhagen|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Herrhagen|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Herrhagen|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Herrhagen|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Herrhagen|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Herrhagen|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Herrhagen|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Kronoparken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Kronoparken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Kronoparken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Kronoparken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Kronoparken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Kronoparken|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Kronoparken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Kronoparken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Kronoparken|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Kronoparken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Kronoparken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Kronoparken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Kronoparken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Kronoparken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Kronoparken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Kronoparken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Kronoparken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Kronoparken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Kronoparken|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Kronoparken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Kronoparken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Kronoparken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Kronoparken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Kronoparken|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Kronoparken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Kronoparken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Kronoparken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Kronoparken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Kroppkärr|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Karlstad|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Karlstad|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Karlstad|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Karlstad|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Karlstad|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Karlstad|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Karlstad|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Karlstad|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Karlstad|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Karlstad|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Karlstad|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Karlstad|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Karlstad|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Karlstad|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Karlstad|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Karlstad|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Karlstad|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Karlstad|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Karlstad|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Karlstad|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Karlstad|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Karlstad|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Karlstad|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Karlstad|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Karlstad|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Karlstad|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Karlstad|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Karlstad|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Råtorp|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Råtorp|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Råtorp|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Råtorp|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Råtorp|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Råtorp|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Råtorp|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Råtorp|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Råtorp|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Råtorp|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Råtorp|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Råtorp|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Råtorp|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Råtorp|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Råtorp|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Råtorp|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Råtorp|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Råtorp|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Råtorp|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Råtorp|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Råtorp|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Råtorp|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Råtorp|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Råtorp|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Råtorp|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Råtorp|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Råtorp|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Råtorp|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Strand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1651671893/cloud/251579.png|,|Färsk fläskfilé|,|NULL|,|69.90|
+|Coop Strand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1563263546/376558.png|,|Paprika|,|NULL|,|6.90|
+|Coop Strand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530094309/308538.png|,|Smörgåspålägg|,|2 för|,|49.00|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637854688/cloud/239971.png|,|Färska Hamburgare|,|NULL|,|44.90|
+|Coop Strand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Strand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631117868/cloud/233845.png|,|Ekologisk soygurt|,|NULL|,|24.90|
+|Coop Strand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1588844921/399209.png|,|Yoghurt|,|2 för|,|35.00|
+|Coop Strand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1514980718/274465.png|,|Morötter|,|NULL|,|6.90|
+|Coop Strand|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Strand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652959031/cloud/252408.png|,|Klassisk kebab|,|NULL|,|44.90|
+|Coop Strand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|42.90|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1564650497/376996.png|,|Fläsklägg|,|NULL|,|44.90|
+|Coop Strand|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633382063/cloud/235580.png|,|Ost|,|NULL|,|99.00|
+|Coop Strand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1572344876/384659.png|,|Alkoholfri öl/Cider|,|3 för|,|25.00|
+|Coop Strand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1652703161/cloud/252149.png|,|Cottage cheese|,|NULL|,|28.90|
+|Coop Strand|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1655270820/cloud/253615.png|,|Bröd|,|NULL|,|22.90|
+|Coop Strand|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635640896/cloud/164532.png|,|Pizzakit/Pizzadeg/Minipizzor|,|NULL|,|25.00|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1568216577/381816.png|,|Ekologisk wienerkorv|,|NULL|,|29.90|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1562699241/375991.png|,|Kyckling Slow cooked|,|NULL|,|54.90|
+|Coop Strand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625395594/cloud/183395.png|,|Ekologisk gurka|,|NULL|,|15.00|
+|Coop Strand|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Strand|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625736175/cloud/230672.png|,|Päron Conference i korg|,|NULL|,|15.00|
+|Coop Strand|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|16.90|
+|Coop Strand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Strand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639038537/cloud/240828.png|,|Pasta|,|2 för|,|32.00|
+|Coop Strand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657610792/cloud/255554.png|,|Chokladkakor|,|NULL|,|20.00|
+|Coop Strand|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649846912/cloud/192670.png|,|Kaffekapslar 10-pack|,|2 för|,|59.00|
+|Coop Strand|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1649686095/cloud/250856.png|,|Glass flerpack|,|NULL|,|34.90|
+|Coop Strand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1660564488/cloud/256733.png|,|Reflexer|,|3 för|,|35.00|
+|Coop Strand|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552662524/367267.png|,|Brustabletter|,|2 för|,|30.00|
+|Coop Strand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Strand|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530086942/308161.png|,|Blutsaft|,|NULL|,|109.00|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440062438/49577.png|,|Satsumas|,|NULL|,|16.90|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1608193189/415153.png|,|Ekologisk Gul lök|,|NULL|,|25.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1633613538/cloud/236005.png|,|Ljung|,|NULL|,|29.00|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1630914452/cloud/169676.png|,|Röda druvor i ask|,|NULL|,|25.00|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647428501/cloud/220102.png|,|Broccoli|,|NULL|,|15.00|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1440401600/50171.png|,|Purjolök|,|NULL|,|20.00|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636358410/cloud/62708.png|,|Brysselkål i nät|,|NULL|,|15.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663225310/cloud/258695.png|,|Blandfärs|,|NULL|,|59.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1657185736/cloud/255393.png|,|Salami|,|NULL|,|24.90|
+|Coop Välsviken|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1587040834/398471.png|,|Hummus|,|2 för|,|40.00|
+|Coop Välsviken|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1635863785/cloud/238068.png|,|Tortellini/gnocchi|,|NULL|,|32.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636242872/cloud/190293.png|,|Spare ribs|,|NULL|,|49.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1531310179/336911.png|,|Rostbiff|,|NULL|,|139.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1583309147/395047.png|,|Färsk strimlad kycklingfilé|,|NULL|,|79.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634049189/cloud/236446.png|,|Deli falukorv|,|NULL|,|34.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637919415/cloud/155429.png|,|Samiskt Rökt Skinka|,|NULL|,|299.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530301988/309711.png|,|Cognacsmedwurst|,|NULL|,|129.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631416809/cloud/163877.png|,|Lammrostbiff|,|NULL|,|259.00|
+|Coop Välsviken|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639727134/cloud/208289.png|,|Färdigmat|,|3 för|,|25.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1531321816/340315.png|,|Kassler|,|NULL|,|79.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645064073/cloud/247104.png|,|Kryddiga korvar|,|NULL|,|34.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570011505/383056.png|,|Salami Chili|,|NULL|,|319.00|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1615767471/424756.png|,|Kycklingbacon|,|NULL|,|14.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1589539623/399899.png|,|Ägg 12-pack|,|NULL|,|19.90|
+|Coop Välsviken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1529974034/302744.png|,|Juice|,|NULL|,|20.00|
+|Coop Välsviken|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647013619/cloud/249116.png|,|Limpa|,|NULL|,|22.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1636245761/cloud/210650.png|,|Ost Familjefavoriter|,|NULL|,|69.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621895553/429513.png|,|Bregott|,|NULL|,|49.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1623234780/219568.png|,|Mjukost|,|NULL|,|39.90|
+|Coop Välsviken|,|Bröd|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1603189798/410378.png|,|Kaffebröd|,|3 för|,|25.00|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1586954736/398377.png|,|Laktosfri yoghurt/kefir|,|NULL|,|20.00|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613343845/421110.png|,|Laktosfri mjölkdryck|,|NULL|,|19.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1516349465/276470.png|,|Lagrad ost|,|NULL|,|119.00|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1580823438/392509.png|,|Laktosfri mjölkdryck|,|NULL|,|19.90|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1530817857/318032.png|,|Vesterhavsost 29%|,|NULL|,|249.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1634805268/cloud/237117.png|,|Gallus Grand Cru|,|NULL|,|299.00|
+|Coop Välsviken|,|Mejeri|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1637334476/cloud/208313.png|,|Ekologisk fetaost|,|NULL|,|24.90|
+|Coop Välsviken|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1645060239/cloud/246920.png|,|Färdigrätter|,|4 för|,|99.00|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609156645/415767.png|,|Nötmixer|,|2 för|,|45.00|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1581659935/393334.png|,|Kaffe|,|NULL|,|59.90|
+|Coop Välsviken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1576254285/387079.png|,|Öl 6-pack|,|NULL|,|54.90|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632493731/cloud/234360.png|,|Tex Mex|,|NULL|,|25.00|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1536762615/349516.png|,|Tepåsar 20-25-pack|,|NULL|,|15.00|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631028831/cloud/233600.png|,|Vegetariska produkter|,|2 för|,|55.00|
+|Coop Välsviken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1647147763/cloud/188511.png|,|Smaksättning till vatten|,|2 för|,|89.00|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1621311767/429118.png|,|Kryddmix|,|2 för|,|25.00|
+|Coop Välsviken|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1646736748/cloud/248804.png|,|Kronhjortskav|,|NULL|,|24.90|
+|Coop Välsviken|,|Fryst|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1613128088/420968.png|,|Glass|,|NULL|,|44.90|
+|Coop Välsviken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1602079935/409796.png|,|Dryck med ciderkaraktär|,|2 för|,|20.00|
+|Coop Välsviken|,|Färdigmat|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1625957239/cloud/220747.png|,|Pastarätter|,|NULL|,|59.90|
+|Coop Välsviken|,|Frukt & grönt|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1570693701/383670.png|,|Grön Sparris|,|NULL|,|29.90|
+|Coop Välsviken|,|Kött|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1606484888/413176.png|,|Kycklingdetaljer|,|NULL|,|29.90|
+|Coop Välsviken|,|Skafferi|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653997322/cloud/252856.png|,|Pärlsocker|,|NULL|,|10.90|
+|Coop Välsviken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1582051492/335442.png|,|Bars|,|3 för|,|55.00|
+|Coop Välsviken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1609342024/415992.png|,|Tandvårdsprodukter|,|NULL|,|NULL|
+|Coop Välsviken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1538273779/351453.png|,|Duschtvål & Schampo|,|2 för|,|30.00|
+|Coop Välsviken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1632490655/cloud/234262.png|,|Brustabletter|,|NULL|,|49.90|
+|Coop Välsviken|,|Skönhet & hälsa|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1631518352/cloud/23446.png|,|Proteinshake|,|2 för|,|45.00|
+|Coop Välsviken|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1597149029/405001.png|,|Kattsnacks|,|2 för|,|24.00|
+|Coop Välsviken|,|Husdjur|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1552664404/367292.png|,|Hundmat|,|NULL|,|69.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1644310767/cloud/244407.png|,|Värmeljus 30-pack|,|2 för|,|55.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1639036189/cloud/240793.png|,|Stavmixer|,|NULL|,|149.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1653296165/cloud/224615.png|,|Batterier|,|2 för|,|39.00|
+|Coop Välsviken|,|Dryck|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1654059347/cloud/252938.png|,|Dryckesglas|,|NULL|,|149.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1624959444/229844.png|,|Glasburk med lock|,|NULL|,|10.00|
+|Coop Välsviken|,|Diverse|,|//res.cloudinary.com/coopsverige/image/upload//t_200x200_png/v1663228781/cloud/258700.png|,|Rivjärn|,|NULL|,|29.90|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595788.jpg|,|Satsumas|,|NULL|,|16.90|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595786.jpg|,|Ekologiska snackmorötter i påse|,|NULL|,|10.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595783.jpg|,|Mogen mango|,|NULL|,|15.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595785.jpg|,|Purjolök|,|NULL|,|15.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595782.jpg|,|Röda kärnfria druvor i ask|,|NULL|,|25.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311071330525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070330328.jpg|,|Guldkorn, Lingongrova, Lingongrova Special|,|NULL|,|23.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595798.jpg|,|Blandfärs|,|NULL|,|39.90|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319181200009.jpg|,|Benfri fläsklägg|,|NULL|,|49.90|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690184980,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690132356.jpg|,|Coleslaw, Tzatziki|,|NULL|,|12.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5740200017013,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5740200001012.jpg|,|Dessertost|,|2 för|,|48.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500171395.jpg|,|Fish & Crisp|,|NULL|,|39.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146964.jpg|,|Färska korvar|,|NULL|,|34.90|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350027520665.jpg|,|Färska portionsrätter|,|NULL|,|49.00|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8001665722131.jpg|,|Gnocchi|,|NULL|,|25.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7300208373009,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300206706007.jpg|,|Kryddiga korvar|,|2 för|,|45.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300327665009.jpg|,|Kycklingfärs|,|NULL|,|72.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340385800009.jpg|,|Lagrad ost|,|NULL|,|119.00|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690115052.jpg|,|Leverpastej|,|NULL|,|9.00|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595817.jpg|,|Pannkakor|,|NULL|,|15.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/200012550000001841.jpg|,|Pepparbiff|,|NULL|,|179.00|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312331808204.jpg|,|Plånbokschark|,|NULL|,|20.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6409630008525.jpg|,|Salami|,|NULL|,|21.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310511216405,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310511210403.jpg|,|Chokladkaka|,|2 för|,|30.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595825.jpg|,|Dubbla stycksaker|,|3 för|,|15.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550052715,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550052722.jpg|,|Fond|,|2 för|,|50.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690146247,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146254.jpg|,|Granola|,|NULL|,|30.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532113073,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532112236.jpg|,|Linschips, Linsbågar|,|2 för|,|30.00|
+|Ica Wallinders|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595828.jpg|,|Läsk|,|2 för|,|24.00|
+|Ica Wallinders|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000053,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310401000060,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401042985.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|10.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613031210374.jpg|,|Snabbkaffe|,|NULL|,|64.00|
+|Ica Wallinders|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595820.jpg|,|Soja|,|2 för|,|20.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8712100619922,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3228881076649.jpg|,|Te|,|2 för|,|25.00|
+|Ica Wallinders|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595790.jpg|,|Tomater på burk|,|2 för|,|20.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432061233.jpg|,|Smör|,|NULL|,|39.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310860005767.jpg|,|Bregott|,|NULL|,|49.00|
+|Ica Wallinders|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313619001539.jpg|,|Juice, Smoothie|,|NULL|,|26.00|
+|Ica Wallinders|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720024,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720017.jpg|,|Smoothie|,|2 för|,|29.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531306.jpg|,|Yoghurt|,|NULL|,|20.00|
+|Ica Wallinders|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595781.jpg|,|Toalett-, Hushållspapper|,|3 för|,|55.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7331210155604.jpg|,|LED Blockljus|,|NULL|,|59.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595803.jpg|,|Bromelia, paraplyaralia|,|NULL|,|69.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Wallinders|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3600541474086,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3600541474048.jpg|,|Schampo, balsam|,|2 för|,|30.00|
+|Ica Wallinders|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595823.jpg|,|Proteinbar|,|6 för|,|85.00|
+|Ica Wallinders|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041993,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041863.jpg|,|Enportionsrätter|,|2 för|,|55.00|
+|Ica Wallinders|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310500004525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500001890.jpg|,|Frysta grönsaker|,|2 för|,|35.00|
+|Ica Wallinders|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595827.jpg|,|Glass|,|NULL|,|22.00|
+|Ica Wallinders|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940267543.jpg|,|Kryddad kyckling|,|NULL|,|79.00|
+|Ica Wallinders|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330671126925_2.jpg|,|Delikatesspotatis i påse|,|NULL|,|15.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594613.jpg|,|Extra söt ananas|,|NULL|,|17.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690058403,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690058373.jpg|,|Finbladiga sallater i påse|,|2 för|,|25.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594607.jpg|,|Hallon i ask, blåbär i ask|,|2 för|,|45.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594614.jpg|,|Lime|,|3 för|,|10.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505693.jpg|,|Päron i korg|,|NULL|,|15.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594581.jpg|,|Äpplen Royal Gala|,|NULL|,|15.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622300589882,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622300589882.jpg|,|Cookies|,|2 för|,|45.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311800697004.jpg|,|Polarhjärtan|,|NULL|,|22.90|
+|Ica Nära Kärnan|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8719200066748,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8719200066786.jpg|,|Färskost|,|2 för|,|15.00|
+|Ica Nära Kärnan|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310620025158.jpg|,|Varmkorv, Wienerkorv|,|NULL|,|49.00|
+|Ica Nära Kärnan|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690134183.jpg|,|Entrecôte|,|NULL|,|64.90|
+|Ica Nära Kärnan|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319256800004_1.jpg|,|Hushållsost|,|NULL|,|82.90|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690138686,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690497226.jpg|,|Pasta-/Risottoboxar|,|2 för|,|59.00|
+|Ica Nära Kärnan|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3392590601536.jpg|,|Pizzakit|,|NULL|,|25.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594612.jpg|,|Revbensspjäll|,|NULL|,|49.90|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330797088794,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330797088954.jpg|,|Tunna skivor|,|2 för|,|55.00|
+|Ica Nära Kärnan|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5449000259110,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5449000259127.jpg|,|Läsk|,|NULL|,|35.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6410803642019,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_6411401035388,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6416453039186.jpg|,|Chokladpåsar|,|3 för|,|55.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310240001761,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310240001785.jpg|,|Granola/Supermüsli|,|2 för|,|79.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130321122.jpg|,|Havregryn|,|NULL|,|15.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310751101066.jpg|,|Jasminris|,|NULL|,|42.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711000530085,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_8711000530153,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8711000530283.jpg|,|Kaffe|,|2 för|,|95.00|
+|Ica Nära Kärnan|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690185277.jpg|,|Makrillfilé i tomatsås|,|NULL|,|29.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690028369,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7318690028420,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690493877.jpg|,|Pasta|,|3 för|,|35.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|12.00|
+|Ica Nära Kärnan|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550031772,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7322550031772,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550031796.jpg|,|Soppa|,|3 för|,|30.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594596.jpg|,|Stycksaker|,|4 för|,|25.00|
+|Ica Nära Kärnan|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130006029.jpg|,|Vetemjöl|,|2 för|,|42.00|
+|Ica Nära Kärnan|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Nära Kärnan|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720017,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720024.jpg|,|Smoothie|,|2 för|,|30.00|
+|Ica Nära Kärnan|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6408432088933,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432088971.jpg|,|Vaniljyoghurt, Världens smaker|,|2 för|,|40.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690117384,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690157533.jpg|,|Toalett-, Hushållspapper|,|4 för|,|89.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Nära Kärnan|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690031307,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690031307.jpg|,|Bullformar|,|2 för|,|15.00|
+|Ica Nära Kärnan|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5714970002951.jpg|,|Maskindisktabletter|,|NULL|,|59.00|
+|Ica Nära Kärnan|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041863,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310960041870,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041900.jpg|,|À la Carte enportionsrätter|,|3 för|,|85.00|
+|Ica Nära Kärnan|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7312690021108,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7312690021115,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312690201135.jpg|,|Gräddglass|,|2 för|,|32.00|
+|Ica Nära Kärnan|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7313940187445,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7313940267543,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940580093.jpg|,|Kyckling|,|NULL|,|85.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7290112964663,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7340024184489,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7340024185066.jpg|,|Vego|,|2 för|,|59.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Nära Kärnan|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594591.jpg|,|Sopsäck|,|2 för|,|45.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690056720,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690056720.jpg|,|Mango|,|2 för|,|25.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318693555800_1.jpg|,|Gröna kärnfria druvor i ask|,|NULL|,|22.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690104421_1.jpg|,|Brysselkål i påse|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690172352_2.jpg|,|Champinjoner i ask|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330671126925_2.jpg|,|Delikatesspotatis i påse|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690154440.jpg|,|Ekologisk gul lök i nät|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505693.jpg|,|Päron i korg|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622210081940,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622300589882.jpg|,|Cookies|,|NULL|,|20.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070008654.jpg|,|Gott Gräddat|,|NULL|,|23.90|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7312200040797,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312200040803.jpg|,|Original-, fiberrost|,|NULL|,|25.00|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2332802700009.jpg|,|Färsk kycklinglårfilé|,|NULL|,|119.00|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340375400004.jpg|,|Hushållsost|,|NULL|,|75.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690177814,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690177814.jpg|,|Bacon|,|2 för|,|20.00|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690131144.jpg|,|Ekologisk blandfärs|,|NULL|,|49.90|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300201432000.jpg|,|Grillkorv|,|NULL|,|33.00|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319277100008.jpg|,|Kassler|,|NULL|,|69.90|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505211.jpg|,|Korvfärs|,|NULL|,|39.90|
+|Ica Stormarknad Karlstad|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5760466878234,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5760466878333.jpg|,|Kyld soppa|,|2 för|,|40.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311171006658,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311171006733.jpg|,|Middagsklart|,|2 för|,|38.00|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311440020897,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7311441165214,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311441165283.jpg|,|Mjukost i tub|,|NULL|,|37.90|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8000430133035,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8000430133035.jpg|,|Mozzarella|,|2 för|,|30.00|
+|Ica Stormarknad Karlstad|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319117000000.jpg|,|Nötstek av fransyska|,|NULL|,|99.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690138686,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690497219.jpg|,|Pasta-, Risottoboxar|,|NULL|,|30.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319127200001.jpg|,|Rimmad oxbringa|,|NULL|,|99.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330797088794,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330797088954.jpg|,|Tunna skivor|,|2 för|,|50.00|
+|Ica Stormarknad Karlstad|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310941801202.jpg|,|Vegetarisk pastej|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310130006234,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130009051.jpg|,|Bönpasta, Linspasta|,|2 för|,|40.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532106518,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532113950.jpg|,|Chips, Jordnötsringar|,|2 för|,|40.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622300544010,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622400624520.jpg|,|Chokladkaka premium|,|2 för|,|30.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312560036027.jpg|,|Havreris, Kornris|,|NULL|,|22.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310050001142,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310050001982.jpg|,|Kaffe|,|2 för|,|85.00|
+|Ica Stormarknad Karlstad|,|Husdjur|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7613037382020,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7613039892930,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613039916384.jpg|,|Kattmat 44-pack|,|2 för|,|279.00|
+|Ica Stormarknad Karlstad|,|Husdjur|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_4008429087912,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_4008429088674,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4008429136115.jpg|,|Kattmat|,|NULL|,|55.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330586000228,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7330586000426,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330586001614.jpg|,|Kullamust|,|2 för|,|34.00|
+|Ica Stormarknad Karlstad|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000374,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401034584.jpg|,|Läsk|,|2 för|,|20.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3254474019274,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3254474019274.jpg|,|Majs 3-pack|,|2 för|,|40.00|
+|Ica Stormarknad Karlstad|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310070001832,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310070001849,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310070001900.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532151662.jpg|,|Nötmix|,|NULL|,|20.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Stormarknad Karlstad|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711254090267,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8711254090274.jpg|,|Soppa|,|2 för|,|26.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5000159461122.jpg|,|Stycksaker|,|4 för|,|20.00|
+|Ica Stormarknad Karlstad|,|Bröd|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311311021152,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311311021169.jpg|,|Tortillabröd|,|2 för|,|35.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310867531306,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531313.jpg|,|Bara yoghurt frukt & bär|,|NULL|,|20.00|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690140368,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7318690140368,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690140368.jpg|,|Drickyoghurt|,|3 för|,|33.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350000550535,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350000550573.jpg|,|Fruktdryck|,|NULL|,|20.00|
+|Ica Stormarknad Karlstad|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310860007372,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310865074225.jpg|,|Juice|,|2 för|,|30.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310090771623,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310090772620,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310090776628.jpg|,|Ris-, mannamellanmål|,|4 för|,|39.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311440622022.jpg|,|Soygurt|,|NULL|,|28.90|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5706807229020,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7315697518879,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7315697519036.jpg|,|Avlusningsmedel|,|NULL|,|99.00|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5705728452159.jpg|,|Boost/Energy Brustabletter|,|NULL|,|49.90|
+|Ica Stormarknad Karlstad|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8718951378506.jpg|,|Munskölj|,|NULL|,|39.00|
+|Ica Stormarknad Karlstad|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8714789615301,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_8714789705910,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8714789791494.jpg|,|Tandkräm Periogard, Tandborste soft 4-pack|,|NULL|,|25.00|
+|Ica Stormarknad Karlstad|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690027133.jpg|,|Fryst broccoli|,|NULL|,|15.00|
+|Ica Stormarknad Karlstad|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310240077575,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310240077636,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310240077650.jpg|,|Fryst Minipizza|,|4 för|,|60.00|
+|Ica Stormarknad Karlstad|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690000648,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690059301.jpg|,|Frysta kanelbullar, vaniljbullar|,|2 för|,|40.00|
+|Ica Stormarknad Karlstad|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711327480438,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8714100635650.jpg|,|Glass flerpack & bägare|,|2 för|,|65.00|
+|Ica Stormarknad Karlstad|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4210201325192.jpg|,|Tandborstrefill 6-pack|,|NULL|,|199.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789137155630.jpg|,|Bortbytaren|,|NULL|,|199.00|
+|Ica Stormarknad Karlstad|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4210201077596.jpg|,|Eltandborste PRO1 800|,|NULL|,|399.00|
+|Ica Stormarknad Karlstad|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/04210201200710.jpg|,|Eltandborste|,|NULL|,|199.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789180312028.jpg|,|En dag dog Hannah, alla andra dagar levde hon|,|NULL|,|179.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7394291100284_2.jpg|,|Massagepistol|,|NULL|,|699.00|
+|Ica Stormarknad Karlstad|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/0022796976703.jpg|,|Schampo, balsam|,|NULL|,|89.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/0374318856230.jpg|,|Symaskin|,|NULL|,|999.00|
+|Ica Stormarknad Karlstad|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789129734690.jpg|,|Vargar på T-centralen|,|NULL|,|99.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595788.jpg|,|Satsumas|,|NULL|,|16.90|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595786.jpg|,|Ekologiska snackmorötter i påse|,|NULL|,|10.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595783.jpg|,|Mogen mango|,|NULL|,|15.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595785.jpg|,|Purjolök|,|NULL|,|15.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595782.jpg|,|Röda kärnfria druvor i ask|,|NULL|,|25.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311071330525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070330328.jpg|,|Guldkorn, Lingongrova, Lingongrova Special|,|NULL|,|23.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595798.jpg|,|Blandfärs|,|NULL|,|39.90|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319181200009.jpg|,|Benfri fläsklägg|,|NULL|,|49.90|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690184980,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690132356.jpg|,|Coleslaw, Tzatziki|,|NULL|,|12.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5740200017013,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5740200001012.jpg|,|Dessertost|,|2 för|,|48.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500171395.jpg|,|Fish & Crisp|,|NULL|,|39.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146964.jpg|,|Färska korvar|,|NULL|,|34.90|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350027520665.jpg|,|Färska portionsrätter|,|NULL|,|49.00|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8001665722131.jpg|,|Gnocchi|,|NULL|,|25.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7300208373009,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300206706007.jpg|,|Kryddiga korvar|,|2 för|,|45.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300327665009.jpg|,|Kycklingfärs|,|NULL|,|72.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340385800009.jpg|,|Lagrad ost|,|NULL|,|119.00|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690115052.jpg|,|Leverpastej|,|NULL|,|9.00|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595817.jpg|,|Pannkakor|,|NULL|,|15.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/200012550000001841.jpg|,|Pepparbiff|,|NULL|,|179.00|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312331808204.jpg|,|Plånbokschark|,|NULL|,|20.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6409630008525.jpg|,|Salami|,|NULL|,|21.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310511216405,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310511210403.jpg|,|Chokladkaka|,|2 för|,|30.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595825.jpg|,|Dubbla stycksaker|,|3 för|,|15.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550052715,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550052722.jpg|,|Fond|,|2 för|,|50.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690146247,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146254.jpg|,|Granola|,|NULL|,|30.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532113073,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532112236.jpg|,|Linschips, Linsbågar|,|2 för|,|30.00|
+|Ica Hagahallen|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595828.jpg|,|Läsk|,|2 för|,|24.00|
+|Ica Hagahallen|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000053,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310401000060,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401042985.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|10.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613031210374.jpg|,|Snabbkaffe|,|NULL|,|64.00|
+|Ica Hagahallen|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595820.jpg|,|Soja|,|2 för|,|20.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8712100619922,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3228881076649.jpg|,|Te|,|2 för|,|25.00|
+|Ica Hagahallen|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595790.jpg|,|Tomater på burk|,|2 för|,|20.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432061233.jpg|,|Smör|,|NULL|,|39.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310860005767.jpg|,|Bregott|,|NULL|,|49.00|
+|Ica Hagahallen|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313619001539.jpg|,|Juice, Smoothie|,|NULL|,|26.00|
+|Ica Hagahallen|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720024,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720017.jpg|,|Smoothie|,|2 för|,|29.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531306.jpg|,|Yoghurt|,|NULL|,|20.00|
+|Ica Hagahallen|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595781.jpg|,|Toalett-, Hushållspapper|,|3 för|,|55.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7331210155604.jpg|,|LED Blockljus|,|NULL|,|59.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595803.jpg|,|Bromelia, paraplyaralia|,|NULL|,|69.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Hagahallen|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3600541474086,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3600541474048.jpg|,|Schampo, balsam|,|2 för|,|30.00|
+|Ica Hagahallen|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595823.jpg|,|Proteinbar|,|6 för|,|85.00|
+|Ica Hagahallen|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041993,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041863.jpg|,|Enportionsrätter|,|2 för|,|55.00|
+|Ica Hagahallen|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310500004525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500001890.jpg|,|Frysta grönsaker|,|2 för|,|35.00|
+|Ica Hagahallen|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595827.jpg|,|Glass|,|NULL|,|22.00|
+|Ica Hagahallen|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940267543.jpg|,|Kryddad kyckling|,|NULL|,|79.00|
+|Ica Hagahallen|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595788.jpg|,|Satsumas|,|NULL|,|16.90|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595786.jpg|,|Ekologiska snackmorötter i påse|,|NULL|,|10.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595783.jpg|,|Mogen mango|,|NULL|,|15.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595785.jpg|,|Purjolök|,|NULL|,|15.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595782.jpg|,|Röda kärnfria druvor i ask|,|NULL|,|25.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311071330525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070330328.jpg|,|Guldkorn, Lingongrova, Lingongrova Special|,|NULL|,|23.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595798.jpg|,|Blandfärs|,|NULL|,|39.90|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319181200009.jpg|,|Benfri fläsklägg|,|NULL|,|49.90|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690184980,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690132356.jpg|,|Coleslaw, Tzatziki|,|NULL|,|12.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5740200017013,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5740200001012.jpg|,|Dessertost|,|2 för|,|48.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500171395.jpg|,|Fish & Crisp|,|NULL|,|39.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146964.jpg|,|Färska korvar|,|NULL|,|34.90|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350027520665.jpg|,|Färska portionsrätter|,|NULL|,|49.00|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8001665722131.jpg|,|Gnocchi|,|NULL|,|25.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7300208373009,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300206706007.jpg|,|Kryddiga korvar|,|2 för|,|45.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300327665009.jpg|,|Kycklingfärs|,|NULL|,|72.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340385800009.jpg|,|Lagrad ost|,|NULL|,|119.00|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690115052.jpg|,|Leverpastej|,|NULL|,|9.00|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595817.jpg|,|Pannkakor|,|NULL|,|15.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/200012550000001841.jpg|,|Pepparbiff|,|NULL|,|179.00|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312331808204.jpg|,|Plånbokschark|,|NULL|,|20.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6409630008525.jpg|,|Salami|,|NULL|,|21.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310511216405,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310511210403.jpg|,|Chokladkaka|,|2 för|,|30.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595825.jpg|,|Dubbla stycksaker|,|3 för|,|15.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550052715,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550052722.jpg|,|Fond|,|2 för|,|50.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690146247,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146254.jpg|,|Granola|,|NULL|,|30.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532113073,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532112236.jpg|,|Linschips, Linsbågar|,|2 för|,|30.00|
+|Ica Skåre|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595828.jpg|,|Läsk|,|2 för|,|24.00|
+|Ica Skåre|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000053,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310401000060,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401042985.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|10.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613031210374.jpg|,|Snabbkaffe|,|NULL|,|64.00|
+|Ica Skåre|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595820.jpg|,|Soja|,|2 för|,|20.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8712100619922,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3228881076649.jpg|,|Te|,|2 för|,|25.00|
+|Ica Skåre|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595790.jpg|,|Tomater på burk|,|2 för|,|20.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432061233.jpg|,|Smör|,|NULL|,|39.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310860005767.jpg|,|Bregott|,|NULL|,|49.00|
+|Ica Skåre|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313619001539.jpg|,|Juice, Smoothie|,|NULL|,|26.00|
+|Ica Skåre|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720024,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720017.jpg|,|Smoothie|,|2 för|,|29.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531306.jpg|,|Yoghurt|,|NULL|,|20.00|
+|Ica Skåre|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595781.jpg|,|Toalett-, Hushållspapper|,|3 för|,|55.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7331210155604.jpg|,|LED Blockljus|,|NULL|,|59.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595803.jpg|,|Bromelia, paraplyaralia|,|NULL|,|69.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Skåre|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3600541474086,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3600541474048.jpg|,|Schampo, balsam|,|2 för|,|30.00|
+|Ica Skåre|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595823.jpg|,|Proteinbar|,|6 för|,|85.00|
+|Ica Skåre|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041993,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041863.jpg|,|Enportionsrätter|,|2 för|,|55.00|
+|Ica Skåre|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310500004525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500001890.jpg|,|Frysta grönsaker|,|2 för|,|35.00|
+|Ica Skåre|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595827.jpg|,|Glass|,|NULL|,|22.00|
+|Ica Skåre|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940267543.jpg|,|Kryddad kyckling|,|NULL|,|79.00|
+|Ica Skåre|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594613.jpg|,|Extra söt ananas|,|NULL|,|17.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690058403,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690058373.jpg|,|Finbladiga sallater i påse|,|2 för|,|25.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594607.jpg|,|Hallon i ask, blåbär i ask|,|2 för|,|45.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594614.jpg|,|Lime|,|3 för|,|10.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594581.jpg|,|Äpplen Royal Gala|,|NULL|,|15.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311800697004.jpg|,|Polarhjärtan|,|NULL|,|22.90|
+|Ica Nära Viken|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8719200066748,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8719200066786.jpg|,|Färskost|,|2 för|,|15.00|
+|Ica Nära Viken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310620025158.jpg|,|Varmkorv, Wienerkorv|,|NULL|,|49.00|
+|Ica Nära Viken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690134183.jpg|,|Entrecôte|,|NULL|,|64.90|
+|Ica Nära Viken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319256800004_1.jpg|,|Hushållsost|,|NULL|,|82.90|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594612.jpg|,|Revbensspjäll|,|NULL|,|49.90|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330797088794,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330797088954.jpg|,|Tunna skivor|,|2 för|,|55.00|
+|Ica Nära Viken|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5449000259110,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5449000259127.jpg|,|Läsk|,|NULL|,|35.00|
+|Ica Nära Viken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Nära Viken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6410803642019,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_6411401035388,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6416453039186.jpg|,|Chokladpåsar|,|3 för|,|55.00|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310240001761,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310240001785.jpg|,|Granola/Supermüsli|,|2 för|,|79.00|
+|Ica Nära Viken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130321122.jpg|,|Havregryn|,|NULL|,|15.00|
+|Ica Nära Viken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711000530085,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_8711000530153,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8711000530283.jpg|,|Kaffe|,|2 för|,|95.00|
+|Ica Nära Viken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|12.00|
+|Ica Nära Viken|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130006029.jpg|,|Vetemjöl|,|2 för|,|42.00|
+|Ica Nära Viken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Nära Viken|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720017,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720024.jpg|,|Smoothie|,|2 för|,|30.00|
+|Ica Nära Viken|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6408432088933,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432088971.jpg|,|Vaniljyoghurt, Världens smaker|,|2 för|,|40.00|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Nära Viken|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5714970002951.jpg|,|Maskindisktabletter|,|NULL|,|59.00|
+|Ica Nära Viken|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7312690021108,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7312690021115,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312690201135.jpg|,|Gräddglass|,|2 för|,|32.00|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7290112964663,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7340024184489,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7340024185066.jpg|,|Vego|,|2 för|,|59.00|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Nära Viken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594591.jpg|,|Sopsäck|,|2 för|,|45.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330671126925_2.jpg|,|Delikatesspotatis i påse|,|NULL|,|15.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594613.jpg|,|Extra söt ananas|,|NULL|,|17.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690058403,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690058373.jpg|,|Finbladiga sallater i påse|,|2 för|,|25.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594607.jpg|,|Hallon i ask, blåbär i ask|,|2 för|,|45.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594614.jpg|,|Lime|,|3 för|,|10.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505693.jpg|,|Päron i korg|,|NULL|,|15.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594581.jpg|,|Äpplen Royal Gala|,|NULL|,|15.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622300589882,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622300589882.jpg|,|Cookies|,|2 för|,|45.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311800697004.jpg|,|Polarhjärtan|,|NULL|,|22.90|
+|Ica Nära Mossbergs|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8719200066748,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8719200066786.jpg|,|Färskost|,|2 för|,|15.00|
+|Ica Nära Mossbergs|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310620025158.jpg|,|Varmkorv, Wienerkorv|,|NULL|,|49.00|
+|Ica Nära Mossbergs|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690134183.jpg|,|Entrecôte|,|NULL|,|64.90|
+|Ica Nära Mossbergs|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319256800004_1.jpg|,|Hushållsost|,|NULL|,|82.90|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690138686,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690497226.jpg|,|Pasta-/Risottoboxar|,|2 för|,|59.00|
+|Ica Nära Mossbergs|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3392590601536.jpg|,|Pizzakit|,|NULL|,|25.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594612.jpg|,|Revbensspjäll|,|NULL|,|49.90|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330797088794,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330797088954.jpg|,|Tunna skivor|,|2 för|,|55.00|
+|Ica Nära Mossbergs|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5449000259110,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5449000259127.jpg|,|Läsk|,|NULL|,|35.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6410803642019,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_6411401035388,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6416453039186.jpg|,|Chokladpåsar|,|3 för|,|55.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310240001761,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310240001785.jpg|,|Granola/Supermüsli|,|2 för|,|79.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130321122.jpg|,|Havregryn|,|NULL|,|15.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310751101066.jpg|,|Jasminris|,|NULL|,|42.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711000530085,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_8711000530153,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8711000530283.jpg|,|Kaffe|,|2 för|,|95.00|
+|Ica Nära Mossbergs|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690185277.jpg|,|Makrillfilé i tomatsås|,|NULL|,|29.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690028369,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7318690028420,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690493877.jpg|,|Pasta|,|3 för|,|35.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|12.00|
+|Ica Nära Mossbergs|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550031772,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7322550031772,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550031796.jpg|,|Soppa|,|3 för|,|30.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594596.jpg|,|Stycksaker|,|4 för|,|25.00|
+|Ica Nära Mossbergs|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130006029.jpg|,|Vetemjöl|,|2 för|,|42.00|
+|Ica Nära Mossbergs|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Nära Mossbergs|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720017,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720024.jpg|,|Smoothie|,|2 för|,|30.00|
+|Ica Nära Mossbergs|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_6408432088933,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432088971.jpg|,|Vaniljyoghurt, Världens smaker|,|2 för|,|40.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690117384,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690157533.jpg|,|Toalett-, Hushållspapper|,|4 för|,|89.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Nära Mossbergs|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690031307,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690031307.jpg|,|Bullformar|,|2 för|,|15.00|
+|Ica Nära Mossbergs|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5714970002951.jpg|,|Maskindisktabletter|,|NULL|,|59.00|
+|Ica Nära Mossbergs|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041863,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310960041870,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041900.jpg|,|À la Carte enportionsrätter|,|3 för|,|85.00|
+|Ica Nära Mossbergs|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7312690021108,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7312690021115,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312690201135.jpg|,|Gräddglass|,|2 för|,|32.00|
+|Ica Nära Mossbergs|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7313940187445,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7313940267543,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940580093.jpg|,|Kyckling|,|NULL|,|85.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7290112964663,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7340024184489,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7340024185066.jpg|,|Vego|,|2 för|,|59.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Nära Mossbergs|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002594591.jpg|,|Sopsäck|,|2 för|,|45.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595788.jpg|,|Satsumas|,|NULL|,|16.90|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595786.jpg|,|Ekologiska snackmorötter i påse|,|NULL|,|10.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595783.jpg|,|Mogen mango|,|NULL|,|15.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595785.jpg|,|Purjolök|,|NULL|,|15.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595782.jpg|,|Röda kärnfria druvor i ask|,|NULL|,|25.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311071330525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070330328.jpg|,|Guldkorn, Lingongrova, Lingongrova Special|,|NULL|,|23.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595798.jpg|,|Blandfärs|,|NULL|,|39.90|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319181200009.jpg|,|Benfri fläsklägg|,|NULL|,|49.90|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690184980,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690132356.jpg|,|Coleslaw, Tzatziki|,|NULL|,|12.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5740200017013,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5740200001012.jpg|,|Dessertost|,|2 för|,|48.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500171395.jpg|,|Fish & Crisp|,|NULL|,|39.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146964.jpg|,|Färska korvar|,|NULL|,|34.90|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350027520665.jpg|,|Färska portionsrätter|,|NULL|,|49.00|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8001665722131.jpg|,|Gnocchi|,|NULL|,|25.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7300208373009,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300206706007.jpg|,|Kryddiga korvar|,|2 för|,|45.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300327665009.jpg|,|Kycklingfärs|,|NULL|,|72.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340385800009.jpg|,|Lagrad ost|,|NULL|,|119.00|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690115052.jpg|,|Leverpastej|,|NULL|,|9.00|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595817.jpg|,|Pannkakor|,|NULL|,|15.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/200012550000001841.jpg|,|Pepparbiff|,|NULL|,|179.00|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312331808204.jpg|,|Plånbokschark|,|NULL|,|20.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6409630008525.jpg|,|Salami|,|NULL|,|21.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310511216405,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310511210403.jpg|,|Chokladkaka|,|2 för|,|30.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595825.jpg|,|Dubbla stycksaker|,|3 för|,|15.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7322550052715,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7322550052722.jpg|,|Fond|,|2 för|,|50.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690146247,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690146254.jpg|,|Granola|,|NULL|,|30.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532113073,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532112236.jpg|,|Linschips, Linsbågar|,|2 för|,|30.00|
+|Ica Fanfaren|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595828.jpg|,|Läsk|,|2 för|,|24.00|
+|Ica Fanfaren|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000053,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310401000060,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401042985.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310340114026.jpg|,|Pärlsocker|,|NULL|,|10.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613031210374.jpg|,|Snabbkaffe|,|NULL|,|64.00|
+|Ica Fanfaren|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595820.jpg|,|Soja|,|2 för|,|20.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8712100619922,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3228881076649.jpg|,|Te|,|2 för|,|25.00|
+|Ica Fanfaren|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595790.jpg|,|Tomater på burk|,|2 för|,|20.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/6408432061233.jpg|,|Smör|,|NULL|,|39.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310860005767.jpg|,|Bregott|,|NULL|,|49.00|
+|Ica Fanfaren|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313619001539.jpg|,|Juice, Smoothie|,|NULL|,|26.00|
+|Ica Fanfaren|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350020720024,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350020720017.jpg|,|Smoothie|,|2 för|,|29.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531306.jpg|,|Yoghurt|,|NULL|,|20.00|
+|Ica Fanfaren|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595781.jpg|,|Toalett-, Hushållspapper|,|3 för|,|55.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7331210155604.jpg|,|LED Blockljus|,|NULL|,|59.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595803.jpg|,|Bromelia, paraplyaralia|,|NULL|,|69.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Fanfaren|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3600541474086,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3600541474048.jpg|,|Schampo, balsam|,|2 för|,|30.00|
+|Ica Fanfaren|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595823.jpg|,|Proteinbar|,|6 för|,|85.00|
+|Ica Fanfaren|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310960041993,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310960041863.jpg|,|Enportionsrätter|,|2 för|,|55.00|
+|Ica Fanfaren|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310500004525,x_$y_mul_-0.3,y_$x_mul_-0.3/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310500001890.jpg|,|Frysta grönsaker|,|2 för|,|35.00|
+|Ica Fanfaren|,|Fryst|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002595827.jpg|,|Glass|,|NULL|,|22.00|
+|Ica Fanfaren|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7313940267543.jpg|,|Kryddad kyckling|,|NULL|,|79.00|
+|Ica Fanfaren|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690056720,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690056720.jpg|,|Mango|,|2 för|,|25.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318693555800_1.jpg|,|Gröna kärnfria druvor i ask|,|NULL|,|22.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690104421_1.jpg|,|Brysselkål i påse|,|NULL|,|15.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690172352_2.jpg|,|Champinjoner i ask|,|NULL|,|15.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330671126925_2.jpg|,|Delikatesspotatis i påse|,|NULL|,|15.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690154440.jpg|,|Ekologisk gul lök i nät|,|NULL|,|15.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505693.jpg|,|Päron i korg|,|NULL|,|15.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690075516_1.jpg|,|Romanticatomater i ask|,|NULL|,|25.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622210081940,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622300589882.jpg|,|Cookies|,|NULL|,|20.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311070008654.jpg|,|Gott Gräddat|,|NULL|,|23.90|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7312200040797,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312200040803.jpg|,|Original-, fiberrost|,|NULL|,|25.00|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2332802700009.jpg|,|Färsk kycklinglårfilé|,|NULL|,|119.00|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2340375400004.jpg|,|Hushållsost|,|NULL|,|75.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690177814,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690177814.jpg|,|Bacon|,|2 för|,|20.00|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690131144.jpg|,|Ekologisk blandfärs|,|NULL|,|49.90|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7300201432000.jpg|,|Grillkorv|,|NULL|,|33.00|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690498193.jpg|,|Handskalade Räkor|,|NULL|,|69.90|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319277100008.jpg|,|Kassler|,|NULL|,|69.90|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690505211.jpg|,|Korvfärs|,|NULL|,|39.90|
+|Ica Välsviken|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5760466878234,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5760466878333.jpg|,|Kyld soppa|,|2 för|,|40.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311171006658,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311171006733.jpg|,|Middagsklart|,|2 för|,|38.00|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311440020897,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7311441165214,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311441165283.jpg|,|Mjukost i tub|,|NULL|,|37.90|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8000430133035,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8000430133035.jpg|,|Mozzarella|,|2 för|,|30.00|
+|Ica Välsviken|,|Kött|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319117000000.jpg|,|Nötstek av fransyska|,|NULL|,|99.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690138686,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690497219.jpg|,|Pasta-, Risottoboxar|,|NULL|,|30.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/2319127200001.jpg|,|Rimmad oxbringa|,|NULL|,|99.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330797088794,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330797088954.jpg|,|Tunna skivor|,|2 för|,|50.00|
+|Ica Välsviken|,|Färdigmat|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310941801202.jpg|,|Vegetarisk pastej|,|NULL|,|15.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310130006234,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310130009051.jpg|,|Bönpasta, Linspasta|,|2 för|,|40.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310532106518,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532113950.jpg|,|Chips, Jordnötsringar|,|2 för|,|40.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7622300544010,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7622400624520.jpg|,|Chokladkaka premium|,|2 för|,|30.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7312560036027.jpg|,|Havreris, Kornris|,|NULL|,|22.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310050001142,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310050001982.jpg|,|Kaffe|,|2 för|,|85.00|
+|Ica Välsviken|,|Husdjur|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7613037382020,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7613039892930,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7613039916384.jpg|,|Kattmat 44-pack|,|2 för|,|279.00|
+|Ica Välsviken|,|Husdjur|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_4008429087912,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_4008429088674,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4008429136115.jpg|,|Kattmat|,|NULL|,|55.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7330586000228,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7330586000426,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7330586001614.jpg|,|Kullamust|,|2 för|,|34.00|
+|Ica Välsviken|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310401000374,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310401034584.jpg|,|Läsk|,|2 för|,|20.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_3254474019274,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/3254474019274.jpg|,|Majs 3-pack|,|2 för|,|40.00|
+|Ica Välsviken|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310070001832,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310070001849,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310070001900.jpg|,|Mineralvatten|,|3 för|,|24.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310532151662.jpg|,|Nötmix|,|NULL|,|20.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690001119_1.jpg|,|Olivolja|,|NULL|,|40.00|
+|Ica Välsviken|,|Färdigmat|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711254090267,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8711254090274.jpg|,|Soppa|,|2 för|,|26.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5000159461122.jpg|,|Stycksaker|,|4 för|,|20.00|
+|Ica Välsviken|,|Bröd|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7311311021152,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311311021169.jpg|,|Tortillabröd|,|2 för|,|35.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310867531306,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310867531313.jpg|,|Bara yoghurt frukt & bär|,|NULL|,|20.00|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690140368,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7318690140368,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690140368.jpg|,|Drickyoghurt|,|3 för|,|33.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7350000550535,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7350000550573.jpg|,|Fruktdryck|,|NULL|,|20.00|
+|Ica Välsviken|,|Dryck|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310860007372,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310865074225.jpg|,|Juice|,|2 för|,|30.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310090771623,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310090772620,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310090776628.jpg|,|Ris-, mannamellanmål|,|4 för|,|39.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7311440622022.jpg|,|Soygurt|,|NULL|,|28.90|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690106593_1.jpg|,|Ägg|,|NULL|,|20.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690165774.jpg|,|Tulpaner|,|NULL|,|59.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_5706807229020,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7315697518879,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7315697519036.jpg|,|Avlusningsmedel|,|NULL|,|99.00|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/5705728452159.jpg|,|Boost/Energy Brustabletter|,|NULL|,|49.90|
+|Ica Välsviken|,|Dryck|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8718951378506.jpg|,|Munskölj|,|NULL|,|39.00|
+|Ica Välsviken|,|Skönhet & hälsa|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8714789615301,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_8714789705910,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8714789791494.jpg|,|Tandkräm Periogard, Tandborste soft 4-pack|,|NULL|,|25.00|
+|Ica Välsviken|,|Frukt & grönt|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690027133.jpg|,|Fryst broccoli|,|NULL|,|15.00|
+|Ica Välsviken|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7310240077575,x_$y_mul_-0.3,y_$x_mul_-0.3/c_fit,w_$x,h_$y,u_7310240077636,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7310240077650.jpg|,|Fryst Minipizza|,|4 för|,|60.00|
+|Ica Välsviken|,|Skafferi|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_7318690000648,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7318690059301.jpg|,|Frysta kanelbullar, vaniljbullar|,|2 för|,|40.00|
+|Ica Välsviken|,|Fryst|,|https://assets.icanet.se/$y_h,$x_w,$pi_current:public_id/c_fit,w_$x,h_$y,u_8711327480438,x_$y_mul_-0.3,y_$x_mul_0.6,g_south_east/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/8714100635650.jpg|,|Glass flerpack & bägare|,|2 för|,|65.00|
+|Ica Välsviken|,|Mejeri|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4210201325192.jpg|,|Tandborstrefill 6-pack|,|NULL|,|199.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/DR_5002599719.jpg|,|Avfallspåse|,|2 för|,|35.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789137155630.jpg|,|Bortbytaren|,|NULL|,|199.00|
+|Ica Välsviken|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/4210201077596.jpg|,|Eltandborste PRO1 800|,|NULL|,|399.00|
+|Ica Välsviken|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/04210201200710.jpg|,|Eltandborste|,|NULL|,|199.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789180312028.jpg|,|En dag dog Hannah, alla andra dagar levde hon|,|NULL|,|179.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/7394291100284_2.jpg|,|Massagepistol|,|NULL|,|699.00|
+|Ica Välsviken|,|Skönhet & hälsa|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/0022796976703.jpg|,|Schampo, balsam|,|NULL|,|89.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/0374318856230.jpg|,|Symaskin|,|NULL|,|999.00|
+|Ica Välsviken|,|Diverse|,|https://assets.icanet.se/q_auto,f_auto/c_lpad,h_150,w_150,e_sharpen:70/9789129734690.jpg|,|Vargar på T-centralen|,|NULL|,|99.00|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hd1/he5/8909698727966/02359752200007.jpg_1489679492136_master_axfood_300|,|Flankstek|,|NULL|,|129|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/ha0/h47/9354613424158/2362991900003_1548924359185_master_axfood_300|,|Fläsklägg|,|NULL|,|32.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hbb/ha0/12181786066974/5707196263602_1634202379974_master_axfood_300|,|Spareribs|,|NULL|,|49.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h70/ha5/8854191865886/07311042000495.jpg_master_axfood_300|,|Äpple Royal Gala|,|NULL|,|17.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/hc8/h3a/8854157000734/4196.jpg_master_axfood_300|,|Äpple Aroma|,|NULL|,|22.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h3b/hcd/8863522324510/7311042000167.jpg_master_axfood_300|,|Röda vindruvor|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/hf1/h42/8856763367454/07311042004936.jpg_master_axfood_300|,|Sharon|,|3 för|,|15.00|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/he6/h54/12188225110046/7311042011705_1634589673663_master_axfood_300|,|Granatäpple|,|NULL|,|9.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h7c/h90/8854206808094/07311042001621.jpg_master_axfood_300|,|Röd paprika|,|NULL|,|29.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h08/h58/9653235286046/7340083478253_1572507354542_master_axfood_300|,|Kycklingkebab|,|NULL|,|59.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h72/h9c/13270836510750/7310500179117_1660567369181_master_axfood_300|,|Kardemummabullar|,|NULL|,|27.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h82/ha2/12631746215966/7310500186047_1644396675112_master_axfood_300|,|Fiskfiléer|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hfa/h89/9117150543902/7310500176833_1524440452749_master_axfood_300|,|Kanelbullar|,|NULL|,|35.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hae/h45/12095236145182/7300322557002_1632136830173_master_axfood_300|,|Kycklinglårfilé|,|NULL|,|59.90|
+|Willy:s Bryggudden|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h8e/he3/11262382211102/7340083484582_1614116445708_master_axfood_300|,|Wokmix|,|2 för|,|34.00|
+|Willy:s Bryggudden|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h68/h44/9847326539806/7611612120814_1581809449779_master_axfood_300|,|Dumplings|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/he0/h09/9074051907614/7033352370760.jpg_1519223838326_master_axfood_300|,|Laxfilé|,|NULL|,|79.90|
+|Willy:s Bryggudden|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h32/h07/12134083330078/7340083455162_1633008975919_master_axfood_300|,|Pizza|,|2 för|,|45.00|
+|Willy:s Bryggudden|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h4b/h05/11168905265182/7340083484896_1612561604171_master_axfood_300|,|Mixbox glass|,|NULL|,|44.90|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hd6/hfa/11865557991454/7310943092523_1625042442312_master_axfood_300|,|Blodpudding|,|2 för|,|18.00|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hc2/h73/11277793951774/7340083486630_1614325537506_master_axfood_300|,|Skivat smörgåspålägg|,|NULL|,|9.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hee/h47/9032235024414/07340083444357.jpg_1513945255133_master_axfood_300|,|Varmkorv|,|NULL|,|39.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h94/he3/8914602393630/07340083457203.jpg_1491179130969_master_axfood_300|,|Ölkorv|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h67/hfe/9287874117662/7340083405754_1542897627734_master_axfood_300|,|Cognacmedwurst|,|NULL|,|26.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h42/h8e/9737853173790/7391196001579_1576721493431_master_axfood_300|,|Skinka|,|2 för|,|45.00|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hec/h8e/10892467830814/7340083427923_1607855116720_master_axfood_300|,|Prosciutto crudo|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h54/ha0/9032242692126/07340083430077.jpg_1513945557621_master_axfood_300|,|Grillkorv|,|NULL|,|44.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h5e/hec/13380609376286/7340083476815_1662989752971_master_axfood_300|,|Riven parmigiano reggiano|,|NULL|,|22.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hcc/h04/9106922045470/7340083465178_1523135259012_master_axfood_300|,|Mascarpone|,|NULL|,|29.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hd3/h4b/8856734269470/07340083426636.jpg_master_axfood_300|,|Skivad ost|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hbb/hfa/11988573356062/7340083490651_1629198388879_master_axfood_300|,|Torskfilé|,|NULL|,|99.00|
+|Willy:s Bryggudden|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h24/h05/10399269027870/7340083482304_1597351923116_master_axfood_300|,|Räkor|,|NULL|,|44.90|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hf0/ha3/12612959666206/8720182277794_1643961038766_master_axfood_300|,|Dressing|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h05/h7a/10172749742110/7312560057404_1591088125962_master_axfood_300|,|Havreringar|,|NULL|,|16.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hdd/h3c/12325362073630/7310130321122_1638190859559_master_axfood_300|,|Havregryn|,|NULL|,|14.90|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hb6/h08/11205485232158/7350104401238_1613132759437_master_axfood_300|,|Proteinbar|,|3 för|,|40.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hce/h09/12441836322846/5900783007867_1640773571631_master_axfood_300|,|Chilisås|,|NULL|,|14.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h75/hba/12973856391198/7310394002294_1652345162577_master_axfood_300|,|Kryddor i glasburk|,|2 för|,|25.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hc2/h5c/12060747923486/3838975566675_1631027151106_master_axfood_300|,|Pastej|,|3 för|,|32.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/ha3/hc8/11554521415710/8711200359721_1618927251042_master_axfood_300|,|Snack pot|,|2 för|,|40.00|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h24/h04/12657541120030/7340083427343_1644911161908_master_axfood_300|,|Kokosmjölk, kokosgrädde|,|2 för|,|25.00|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h20/he3/8854839296030/8410159016586.jpg_master_axfood_300|,|Oliver med pimientos|,|NULL|,|14.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3d/h4d/8891875754014/07611612100441.jpg_1484432740557_master_axfood_300|,|Panko|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3f/h3c/9897843851294/7340083478154_1583789761730_master_axfood_300|,|Ekologisk tagliatelle|,|NULL|,|18.90|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/he4/h30/11485575282718/7310240214062_1617868851455_master_axfood_300|,|Vegansk ch**se dip|,|NULL|,|25.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3e/h13/8891863891998/07611612100557.jpg_1484432577298_master_axfood_300|,|Shirataki nudlar|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h93/haa/11485817962526/7310240214000_1617870356204_master_axfood_300|,|Ekologisk taco kryddmix|,|2 för|,|20.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3e/hbe/9737336094750/7340083472268_1576707973498_master_axfood_300|,|Pasta|,|2 för|,|32.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h98/h91/8857414696990/07340083435249.jpg_master_axfood_300|,|Jasminris|,|NULL|,|79.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/ha6/he2/11764510785566/7350126080312_1622752924820_master_axfood_300|,|Veganska tortilla chips|,|NULL|,|14.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h75/hf2/9151567134750/7340083466809_1528703750075_master_axfood_300|,|Salsa|,|NULL|,|12.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hed/h2b/9574115934238/7311520010015_1567504282117_master_axfood_300|,|Mushroom soy|,|NULL|,|12.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hfc/hef/9973600878622/7310186023650_1586162774182_master_axfood_300|,|Te|,|NULL|,|16.90|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/h8b/he6/8861631086622/07340083443299.jpg_master_axfood_300|,|Pastasås|,|NULL|,|14.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h1a/hb0/12671309512734/7311041062654_1645171248130_master_axfood_300|,|Pesto, gremolata|,|NULL|,|22.90|
+|Willy:s Bryggudden|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h47/hd8/9945455525918/7316150777185_1585399249695_master_axfood_300|,|Gröna oliver med kärnor|,|NULL|,|27.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hb1/h5d/9523237388318/7340083474682_1562820389694_master_axfood_300|,|Kaffe|,|2 för|,|69.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hcb/h56/11139822518302/8710522882207_1612188371637_master_axfood_300|,|Mayonnaise|,|NULL|,|27.90|
+|Willy:s Bryggudden|,|Bröd|,|https://d2rfo6yapuixuu.cloudfront.net/hd4/h88/13419993825310/7311070008159_1663826156579_master_axfood_300|,|Levain|,|NULL|,|35.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h07/hb1/9789463560222/7310520009500_1579470090167_master_axfood_300|,|Ballerina|,|NULL|,|26.90|
+|Willy:s Bryggudden|,|Bröd|,|https://d2rfo6yapuixuu.cloudfront.net/hef/hb5/9427430965278/7310960031819_1554584088942_master_axfood_300|,|Italienskt surdegsbröd|,|NULL|,|27.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h0f/h0a/9934743830558/ägg_garant_15p_550_axfood_300|,|Ägg|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h6d/hc3/11125194326046/7340083480126_1611917480976_master_axfood_300|,|Barista havredryck|,|2 för|,|28.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/h25/he5/12798261985310/7350068291210_1648029058764_master_axfood_300|,|Propudding, milkshake|,|2 för|,|34.00|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h4f/h67/12037145559070/7340083490439_1630421428093_master_axfood_300|,|Vispgrädde|,|NULL|,|21.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h6c/hd7/12089473826846/7340083490446_1631780168345_master_axfood_300|,|Matgrädde|,|NULL|,|19.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/he9/hb6/13380608720926/7340083448638_1662989748512_master_axfood_300|,|Crème fraîche|,|NULL|,|27.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hf7/hcf/8869476204574/07311041071564.jpg_1470657324725_master_axfood_300|,|A-fil|,|NULL|,|13.90|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h7c/h1b/13119905988638/5711953124860_1655973637085_master_axfood_300|,|Tripleshot|,|2 för|,|44.00|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/hd3/h0c/11060864286750/7312720080303_1610964665139_master_axfood_300|,|Shot|,|NULL|,|29.90|
+|Willy:s Bryggudden|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hde/hab/10111815811102/6408432088933_1589538928298_master_axfood_300|,|Yoghurt|,|2 för|,|42.00|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h0c/hb9/9948793143326/7350020720024_1585556742947_master_axfood_300|,|Smoothie|,|2 för|,|28.00|
+|Willy:s Bryggudden|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hd8/h1d/12983737712670/5760466877572_1652704546640_master_axfood_300|,|Pastasås|,|NULL|,|24.90|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hde/h70/9544938717214/majskrok_oho_550_axfood_300|,|Corn sticks|,|NULL|,|9.90|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h2e/ha5/8854731227166/05703147063130.jpg_master_axfood_300|,|Permanent hårfärg, intensivtoning, toningsspray|,|NULL|,|69.90|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h13/h22/11288408653854/8717163766330_1614554163436_master_axfood_300|,|Schampo, duschcreme, duschgel|,|2 för|,|32.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hf2/h7b/11916485197854/3574661011288_1626771324626_master_axfood_300|,|Tamponger|,|2 för|,|70.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h48/h72/9772483805214/8000630041543_1578660322990_master_axfood_300|,|Tandborste|,|2 för|,|30.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hd5/h1c/9962031841310/8710908843044_1585819248709_master_axfood_300|,|Tandkräm|,|2 för|,|35.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/had/h87/12840302608414/50097838_1649064935921_master_axfood_300|,|Deodorant|,|2 för|,|40.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hf4/h67/13151033557022/7332531104098_1656919844849_master_axfood_300|,|Duschcreme, duschgel|,|2 för|,|26.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h86/h14/10495942361118/7340083483141_1599748826247_master_axfood_300|,|Trosskydd, binda|,|3 för|,|40.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hd7/h05/13384270217246/5410076390717_1663052145479_master_axfood_300|,|Schampo, balsam, hårinpackning|,|2 för|,|100.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hfe/hd9/8856029298718/8714789584294.jpg_master_axfood_300|,|Tandborste|,|2 för|,|22.00|
+|Willy:s Bryggudden|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h6d/h03/11081321873438/8718951179769_1611237044265_master_axfood_300|,|Tandkräm vuxen 125ml, Tandkräm barn 50ml, tandborste barn 1p|,|2 för|,|25.00|
+|Willy:s Bryggudden|,|Husdjur|,|https://d2rfo6yapuixuu.cloudfront.net/h90/haf/11650102034462/5700551211751_1620600679209_master_axfood_300|,|Katt torrfoder|,|2 för|,|199.00|
+|Willy:s Bryggudden|,|Husdjur|,|https://d2rfo6yapuixuu.cloudfront.net/h87/h78/8857393987614/05700551260513.jpg_master_axfood_300|,|Kattströ|,|2 för|,|85.00|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h27/hc8/12459900862494/7340131602890_1641222930258_master_axfood_300|,|Energidryck|,|2 för|,|34.00+pant|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/hc5/h1b/10027794563102/7611612513685_1587536119110_master_axfood_300|,|Läsk, tonic water, lemonad|,|3 för|,|25.00+pant|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h3c/h00/11125269102622/7611612221955_1611918084348_master_axfood_300|,|Sportdryck|,|3 för|,|25.00+pant|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/he5/h97/12726136930334/7310074009377_1646391355129_master_axfood_300|,|Läsk|,|NULL|,|42.90+pant|
+|Willy:s Bryggudden|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h91/hc6/13132138610718/7310401049205_1656384370073_master_axfood_300|,|Energidryck|,|2 för|,|25.00+pant|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h4d/hf8/11596460752926/7310532103616_1619608825373_master_axfood_300|,|Västkustchips|,|2 för|,|42.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h4d/h40/13158041518110/7310040020726_1657026315544_master_axfood_300|,|Plopp, center|,|3 för|,|15.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h1d/h43/13170780471326/3046920029674_1657609220863_master_axfood_300|,|Chokladkaka|,|2 för|,|45.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h9b/hea/11868188606494/7310520006851_1625090754040_master_axfood_300|,|Smash, choco crunch|,|2 för|,|35.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/haf/he7/10162544574494/4014400910063_1590758415166_master_axfood_300|,|Cream candies, cream toffees|,|2 för|,|28.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h39/hce/11125233975326/7622210865335_1611917775294_master_axfood_300|,|Chokladbit|,|3 för|,|18.00|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h63/h64/13442589163550/liljor 5p SFMC_axfood_300|,|Liljor|,|NULL|,|49.90|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/hf6/hd0/11553165770782/7311042007401_1618915570568_master_axfood_300|,|Ros i kruka|,|NULL|,|39.90|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h19/h8c/12105214427166/takeaway raggsockor SFMC_axfood_300|,|Raggsockor|,|2 för|,|69.00|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h92/h19/10192983851038/7391704800144_1591615523379_master_axfood_300|,|Diskduk|,|2 för|,|34.00|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h73/hcf/10454917644318/7332597823902_1598734571585_master_axfood_300|,|Strumpor|,|NULL|,|79.90|
+|Willy:s Bryggudden|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h57/haa/8899999268894/07340083452468.jpg_1486849837642_master_axfood_300|,|Avfallspåse|,|2 för|,|30.00|
+|Willy:s Bryggudden|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h65/h8c/8872011464734/07340083450488.jpg_1473246341881_master_axfood_300|,|10X SNABBNUDLAR|,|10 för|,|45.00|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hd1/he5/8909698727966/02359752200007.jpg_1489679492136_master_axfood_300|,|Flankstek|,|NULL|,|129|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/ha0/h47/9354613424158/2362991900003_1548924359185_master_axfood_300|,|Fläsklägg|,|NULL|,|32.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hbb/ha0/12181786066974/5707196263602_1634202379974_master_axfood_300|,|Spareribs|,|NULL|,|49.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h70/ha5/8854191865886/07311042000495.jpg_master_axfood_300|,|Äpple Royal Gala|,|NULL|,|17.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/hc8/h3a/8854157000734/4196.jpg_master_axfood_300|,|Äpple Aroma|,|NULL|,|22.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h3b/hcd/8863522324510/7311042000167.jpg_master_axfood_300|,|Röda vindruvor|,|NULL|,|19.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/hf1/h42/8856763367454/07311042004936.jpg_master_axfood_300|,|Sharon|,|3 för|,|15.00|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/he6/h54/12188225110046/7311042011705_1634589673663_master_axfood_300|,|Granatäpple|,|NULL|,|9.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h7c/h90/8854206808094/07311042001621.jpg_master_axfood_300|,|Röd paprika|,|NULL|,|29.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h08/h58/9653235286046/7340083478253_1572507354542_master_axfood_300|,|Kycklingkebab|,|NULL|,|59.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h72/h9c/13270836510750/7310500179117_1660567369181_master_axfood_300|,|Kardemummabullar|,|NULL|,|27.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h82/ha2/12631746215966/7310500186047_1644396675112_master_axfood_300|,|Fiskfiléer|,|NULL|,|19.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hfa/h89/9117150543902/7310500176833_1524440452749_master_axfood_300|,|Kanelbullar|,|NULL|,|35.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hae/h45/12095236145182/7300322557002_1632136830173_master_axfood_300|,|Kycklinglårfilé|,|NULL|,|59.90|
+|Willy:s Växnås|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h8e/he3/11262382211102/7340083484582_1614116445708_master_axfood_300|,|Wokmix|,|2 för|,|34.00|
+|Willy:s Växnås|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h68/h44/9847326539806/7611612120814_1581809449779_master_axfood_300|,|Dumplings|,|NULL|,|24.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/he0/h09/9074051907614/7033352370760.jpg_1519223838326_master_axfood_300|,|Laxfilé|,|NULL|,|79.90|
+|Willy:s Växnås|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h32/h07/12134083330078/7340083455162_1633008975919_master_axfood_300|,|Pizza|,|2 för|,|45.00|
+|Willy:s Växnås|,|Fryst|,|https://d2rfo6yapuixuu.cloudfront.net/h4b/h05/11168905265182/7340083484896_1612561604171_master_axfood_300|,|Mixbox glass|,|NULL|,|44.90|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hd6/hfa/11865557991454/7310943092523_1625042442312_master_axfood_300|,|Blodpudding|,|2 för|,|18.00|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hc2/h73/11277793951774/7340083486630_1614325537506_master_axfood_300|,|Skivat smörgåspålägg|,|NULL|,|9.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hee/h47/9032235024414/07340083444357.jpg_1513945255133_master_axfood_300|,|Varmkorv|,|NULL|,|39.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h94/he3/8914602393630/07340083457203.jpg_1491179130969_master_axfood_300|,|Ölkorv|,|NULL|,|24.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h67/hfe/9287874117662/7340083405754_1542897627734_master_axfood_300|,|Cognacmedwurst|,|NULL|,|26.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h42/h8e/9737853173790/7391196001579_1576721493431_master_axfood_300|,|Skinka|,|2 för|,|45.00|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hec/h8e/10892467830814/7340083427923_1607855116720_master_axfood_300|,|Prosciutto crudo|,|NULL|,|24.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h54/ha0/9032242692126/07340083430077.jpg_1513945557621_master_axfood_300|,|Grillkorv|,|NULL|,|44.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h5e/hec/13380609376286/7340083476815_1662989752971_master_axfood_300|,|Riven parmigiano reggiano|,|NULL|,|22.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hcc/h04/9106922045470/7340083465178_1523135259012_master_axfood_300|,|Mascarpone|,|NULL|,|29.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hd3/h4b/8856734269470/07340083426636.jpg_master_axfood_300|,|Skivad ost|,|NULL|,|24.90|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/hbb/hfa/11988573356062/7340083490651_1629198388879_master_axfood_300|,|Torskfilé|,|NULL|,|99.00|
+|Willy:s Växnås|,|Kött|,|https://d2rfo6yapuixuu.cloudfront.net/h24/h05/10399269027870/7340083482304_1597351923116_master_axfood_300|,|Räkor|,|NULL|,|44.90|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hf0/ha3/12612959666206/8720182277794_1643961038766_master_axfood_300|,|Dressing|,|NULL|,|19.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h05/h7a/10172749742110/7312560057404_1591088125962_master_axfood_300|,|Havreringar|,|NULL|,|16.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hdd/h3c/12325362073630/7310130321122_1638190859559_master_axfood_300|,|Havregryn|,|NULL|,|14.90|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hb6/h08/11205485232158/7350104401238_1613132759437_master_axfood_300|,|Proteinbar|,|3 för|,|40.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hce/h09/12441836322846/5900783007867_1640773571631_master_axfood_300|,|Chilisås|,|NULL|,|14.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h75/hba/12973856391198/7310394002294_1652345162577_master_axfood_300|,|Kryddor i glasburk|,|2 för|,|25.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hc2/h5c/12060747923486/3838975566675_1631027151106_master_axfood_300|,|Pastej|,|3 för|,|32.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/ha3/hc8/11554521415710/8711200359721_1618927251042_master_axfood_300|,|Snack pot|,|2 för|,|40.00|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h24/h04/12657541120030/7340083427343_1644911161908_master_axfood_300|,|Kokosmjölk, kokosgrädde|,|2 för|,|25.00|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h20/he3/8854839296030/8410159016586.jpg_master_axfood_300|,|Oliver med pimientos|,|NULL|,|14.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3d/h4d/8891875754014/07611612100441.jpg_1484432740557_master_axfood_300|,|Panko|,|NULL|,|19.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3f/h3c/9897843851294/7340083478154_1583789761730_master_axfood_300|,|Ekologisk tagliatelle|,|NULL|,|18.90|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/he4/h30/11485575282718/7310240214062_1617868851455_master_axfood_300|,|Vegansk ch**se dip|,|NULL|,|25.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3e/h13/8891863891998/07611612100557.jpg_1484432577298_master_axfood_300|,|Shirataki nudlar|,|NULL|,|19.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h93/haa/11485817962526/7310240214000_1617870356204_master_axfood_300|,|Ekologisk taco kryddmix|,|2 för|,|20.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h3e/hbe/9737336094750/7340083472268_1576707973498_master_axfood_300|,|Pasta|,|2 för|,|32.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h98/h91/8857414696990/07340083435249.jpg_master_axfood_300|,|Jasminris|,|NULL|,|79.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/ha6/he2/11764510785566/7350126080312_1622752924820_master_axfood_300|,|Veganska tortilla chips|,|NULL|,|14.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h75/hf2/9151567134750/7340083466809_1528703750075_master_axfood_300|,|Salsa|,|NULL|,|12.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hed/h2b/9574115934238/7311520010015_1567504282117_master_axfood_300|,|Mushroom soy|,|NULL|,|12.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hfc/hef/9973600878622/7310186023650_1586162774182_master_axfood_300|,|Te|,|NULL|,|16.90|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/h8b/he6/8861631086622/07340083443299.jpg_master_axfood_300|,|Pastasås|,|NULL|,|14.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h1a/hb0/12671309512734/7311041062654_1645171248130_master_axfood_300|,|Pesto, gremolata|,|NULL|,|22.90|
+|Willy:s Växnås|,|Frukt & grönsaker|,|https://d2rfo6yapuixuu.cloudfront.net/h47/hd8/9945455525918/7316150777185_1585399249695_master_axfood_300|,|Gröna oliver med kärnor|,|NULL|,|27.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hb1/h5d/9523237388318/7340083474682_1562820389694_master_axfood_300|,|Kaffe|,|2 för|,|69.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hcb/h56/11139822518302/8710522882207_1612188371637_master_axfood_300|,|Mayonnaise|,|NULL|,|27.90|
+|Willy:s Växnås|,|Bröd|,|https://d2rfo6yapuixuu.cloudfront.net/hd4/h88/13419993825310/7311070008159_1663826156579_master_axfood_300|,|Levain|,|NULL|,|35.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h07/hb1/9789463560222/7310520009500_1579470090167_master_axfood_300|,|Ballerina|,|NULL|,|26.90|
+|Willy:s Växnås|,|Bröd|,|https://d2rfo6yapuixuu.cloudfront.net/hef/hb5/9427430965278/7310960031819_1554584088942_master_axfood_300|,|Italienskt surdegsbröd|,|NULL|,|27.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h0f/h0a/9934743830558/ägg_garant_15p_550_axfood_300|,|Ägg|,|NULL|,|24.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h6d/hc3/11125194326046/7340083480126_1611917480976_master_axfood_300|,|Barista havredryck|,|2 för|,|28.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/h25/he5/12798261985310/7350068291210_1648029058764_master_axfood_300|,|Propudding, milkshake|,|2 för|,|34.00|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h4f/h67/12037145559070/7340083490439_1630421428093_master_axfood_300|,|Vispgrädde|,|NULL|,|21.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/h6c/hd7/12089473826846/7340083490446_1631780168345_master_axfood_300|,|Matgrädde|,|NULL|,|19.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/he9/hb6/13380608720926/7340083448638_1662989748512_master_axfood_300|,|Crème fraîche|,|NULL|,|27.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hf7/hcf/8869476204574/07311041071564.jpg_1470657324725_master_axfood_300|,|A-fil|,|NULL|,|13.90|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h7c/h1b/13119905988638/5711953124860_1655973637085_master_axfood_300|,|Tripleshot|,|2 för|,|44.00|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/hd3/h0c/11060864286750/7312720080303_1610964665139_master_axfood_300|,|Shot|,|NULL|,|29.90|
+|Willy:s Växnås|,|Mejeri|,|https://d2rfo6yapuixuu.cloudfront.net/hde/hab/10111815811102/6408432088933_1589538928298_master_axfood_300|,|Yoghurt|,|2 för|,|42.00|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h0c/hb9/9948793143326/7350020720024_1585556742947_master_axfood_300|,|Smoothie|,|2 för|,|28.00|
+|Willy:s Växnås|,|Färdigmat|,|https://d2rfo6yapuixuu.cloudfront.net/hd8/h1d/12983737712670/5760466877572_1652704546640_master_axfood_300|,|Pastasås|,|NULL|,|24.90|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/hde/h70/9544938717214/majskrok_oho_550_axfood_300|,|Corn sticks|,|NULL|,|9.90|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h2e/ha5/8854731227166/05703147063130.jpg_master_axfood_300|,|Permanent hårfärg, intensivtoning, toningsspray|,|NULL|,|69.90|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h13/h22/11288408653854/8717163766330_1614554163436_master_axfood_300|,|Schampo, duschcreme, duschgel|,|2 för|,|32.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hf2/h7b/11916485197854/3574661011288_1626771324626_master_axfood_300|,|Tamponger|,|2 för|,|70.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h48/h72/9772483805214/8000630041543_1578660322990_master_axfood_300|,|Tandborste|,|2 för|,|30.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hd5/h1c/9962031841310/8710908843044_1585819248709_master_axfood_300|,|Tandkräm|,|2 för|,|35.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/had/h87/12840302608414/50097838_1649064935921_master_axfood_300|,|Deodorant|,|2 för|,|40.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hf4/h67/13151033557022/7332531104098_1656919844849_master_axfood_300|,|Duschcreme, duschgel|,|2 för|,|26.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h86/h14/10495942361118/7340083483141_1599748826247_master_axfood_300|,|Trosskydd, binda|,|3 för|,|40.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hd7/h05/13384270217246/5410076390717_1663052145479_master_axfood_300|,|Schampo, balsam, hårinpackning|,|2 för|,|100.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/hfe/hd9/8856029298718/8714789584294.jpg_master_axfood_300|,|Tandborste|,|2 för|,|22.00|
+|Willy:s Växnås|,|Skönhet & hälsa|,|https://d2rfo6yapuixuu.cloudfront.net/h6d/h03/11081321873438/8718951179769_1611237044265_master_axfood_300|,|Tandkräm vuxen 125ml, Tandkräm barn 50ml, tandborste barn 1p|,|2 för|,|25.00|
+|Willy:s Växnås|,|Husdjur|,|https://d2rfo6yapuixuu.cloudfront.net/h90/haf/11650102034462/5700551211751_1620600679209_master_axfood_300|,|Katt torrfoder|,|2 för|,|199.00|
+|Willy:s Växnås|,|Husdjur|,|https://d2rfo6yapuixuu.cloudfront.net/h87/h78/8857393987614/05700551260513.jpg_master_axfood_300|,|Kattströ|,|2 för|,|85.00|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h27/hc8/12459900862494/7340131602890_1641222930258_master_axfood_300|,|Energidryck|,|2 för|,|34.00+pant|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/hc5/h1b/10027794563102/7611612513685_1587536119110_master_axfood_300|,|Läsk, tonic water, lemonad|,|3 för|,|25.00+pant|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h3c/h00/11125269102622/7611612221955_1611918084348_master_axfood_300|,|Sportdryck|,|3 för|,|25.00+pant|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/he5/h97/12726136930334/7310074009377_1646391355129_master_axfood_300|,|Läsk|,|NULL|,|42.90+pant|
+|Willy:s Växnås|,|Dryck|,|https://d2rfo6yapuixuu.cloudfront.net/h91/hc6/13132138610718/7310401049205_1656384370073_master_axfood_300|,|Energidryck|,|2 för|,|25.00+pant|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h4d/hf8/11596460752926/7310532103616_1619608825373_master_axfood_300|,|Västkustchips|,|2 för|,|42.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h4d/h40/13158041518110/7310040020726_1657026315544_master_axfood_300|,|Plopp, center|,|3 för|,|15.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h1d/h43/13170780471326/3046920029674_1657609220863_master_axfood_300|,|Chokladkaka|,|2 för|,|45.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h9b/hea/11868188606494/7310520006851_1625090754040_master_axfood_300|,|Smash, choco crunch|,|2 för|,|35.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/haf/he7/10162544574494/4014400910063_1590758415166_master_axfood_300|,|Cream candies, cream toffees|,|2 för|,|28.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h39/hce/11125233975326/7622210865335_1611917775294_master_axfood_300|,|Chokladbit|,|3 för|,|18.00|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h63/h64/13442589163550/liljor 5p SFMC_axfood_300|,|Liljor|,|NULL|,|49.90|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/hf6/hd0/11553165770782/7311042007401_1618915570568_master_axfood_300|,|Ros i kruka|,|NULL|,|39.90|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h19/h8c/12105214427166/takeaway raggsockor SFMC_axfood_300|,|Raggsockor|,|2 för|,|69.00|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h92/h19/10192983851038/7391704800144_1591615523379_master_axfood_300|,|Diskduk|,|2 för|,|34.00|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h73/hcf/10454917644318/7332597823902_1598734571585_master_axfood_300|,|Strumpor|,|NULL|,|79.90|
+|Willy:s Växnås|,|Diverse|,|https://d2rfo6yapuixuu.cloudfront.net/h57/haa/8899999268894/07340083452468.jpg_1486849837642_master_axfood_300|,|Avfallspåse|,|2 för|,|30.00|
+|Willy:s Växnås|,|Skafferi|,|https://d2rfo6yapuixuu.cloudfront.net/h65/h8c/8872011464734/07340083450488.jpg_1473246341881_master_axfood_300|,|10X SNABBNUDLAR|,|10 för|,|45.00|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/80105/xs/80105.jpg|,|Satsumas|,|2 KG!|,|24.90|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/8255/xs/8255.jpg|,|Färska revben|,|SUPERPRIS!|,|49.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/166383/xs/166383.jpg|,|Kanel malen|,|SUPERPRIS!|,|14.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000548/xs/7000548.jpg|,|Bullar|,|-20 %|,|18.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005305/xs/7005305.jpg|,|Mellanmjölk 1,5%|,|SUPERPRIS!|,|17.90|
+|Lidl Rattgatan|,|Dryck|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/151952/xs/151952.jpg|,|Juice|,|2 FÖR:|,|35|
+|Lidl Rattgatan|,|Bröd|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6440/xs/6440.jpg|,|Mellangrova|,|2 FÖR:|,|27|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001280/xs/7001280.jpg|,|Arla yoghurtkvarg|,|SUPERPRIS!|,|24.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000361/xs/7000361.jpg|,|Hushållsost|,|-22%|,|69.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/1346/xs/1346.jpg|,|Bregott|,|-28 %|,|44.90|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/10039/xs/10039.jpg|,|Skinka|,|2 FÖR:|,|35|
+|Lidl Rattgatan|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/9931/xs/9931.jpg|,|Dafgårds Karins familjelasagne|,|SUPERPRIS!|,|69.90|
+|Lidl Rattgatan|,|Dryck|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7004814/xs/7004814.jpg|,|Öl Tuborg grön 3,5%|,|24-PACK|,|169|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006540/xs/7006540.jpg|,|Findus pasta|,|SUPERPRIS!|,|49.90|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/159827/xs/159827.jpg|,|Norsk regnbågslax|,|SUPERPRIS!|,|79.90|
+|Lidl Rattgatan|,|Fryst|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/2906/xs/2906.jpg|,|Billys Pan Pizza|,|SUPERPRIS!|,|89.90|
+|Lidl Rattgatan|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001570/xs/7001570.jpg|,|Felix soppa|,|SUPERPRIS!|,|20|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005529/xs/7005529.jpg|,|Risenta Linskakor|,|SUPERPRIS!|,|14.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005998/xs/7005998.jpg|,|Scan köttbullar|,|-25%|,|49.90|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001397/xs/7001397.jpg|,|Risenta pumpakärnor|,|SUPERPRIS!|,|24.90|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6944/xs/6944.jpg|,|Rödbetssallad|,|SUPERPRIS!|,|19.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6200737/xs/6200737.jpg|,|Grekisk yoghurt 0%|,|SUPERPRIS!|,|17.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/3244/xs/3244.jpg|,|Felix rullpack Risgrynsgröt|,|2 FÖR:|,|20|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006651/xs/7006651.jpg|,|Svenskt gårdsvilt hjortstek benfri|,|SUPERPRIS!|,|299|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7709440/xs/7709440.jpg|,|Rådjursstek|,|SUPERPRIS!|,|199|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/180182/xs/180182.jpg|,|Hamburgare av hjortfärs|,|SUPERPRIS!|,|39.90|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6508826/xs/6508826.jpg|,|Rårörda lingon 50%|,|-21 %|,|29.90|
+|Lidl Rattgatan|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7709917/xs/7709917.jpg|,|Viltgryta|,|SUPERPRIS!|,|89.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006293/xs/7006293.jpg|,|Skånemejerier vispgrädde|,|SUPERPRIS!|,|22.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/139650/xs/139650.jpg|,|Cornichons premium|,|-33%|,|9.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/83016/xs/83016.jpg|,|Champinjoner|,|MINST -37 %|,|14.90|
+|Lidl Rattgatan|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/139016/xs/139016.jpg|,|Salami med viltkött|,|SUPERPRIS!|,|24.90|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/120716/xs/120716.jpg|,|Ost med frukt & nötter|,|NULL|,|39.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5600059/xs/5600059.jpg|,|Munsterost|,|SUPERPRIS!|,|24.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5236/xs/5236.jpg|,|Blue Stilton|,|NULL|,|39.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5102986/xs/5102986.jpg|,|Schweiziska ostar|,|NULL|,|44.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5704255/xs/5704255.jpg|,|Spansk lagrad ost|,|NULL|,|44.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5604400/xs/5604400.jpg|,|Ost med calvados|,|NULL|,|49.90|
+|Lidl Rattgatan|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000874/xs/7000874.jpg|,|Göteborgs kex utvalda Salinas|,|SUPERPRIS!|,|19.90|
+|Lidl Rattgatan|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/131260/xs/131260.jpg|,|Chutney|,|NULL|,|17.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/48339/xs/48339.jpg|,|Fylld vitmögelost|,|SUPERPRIS!|,|34.90|
+|Lidl Rattgatan|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6603457/xs/6603457.jpg|,|Smaksatt goudaost|,|NULL|,|29.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7205451/xs/7205451.jpg|,|Kashkaval|,|NULL|,|49.90|
+|Lidl Rattgatan|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6000888/xs/6000888.jpg|,|Scamorzaost|,|SUPERPRIS!|,|29.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/59796/xs/59796.jpg|,|St Paulia|,|SUPERPRIS!|,|29.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/62705/xs/62705.jpg|,|Vriesea och juvelblomma|,|NULL|,|79.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/119836/xs/119836.jpg|,|Keramikkruka ”Stone”|,|NULL|,|39.90|
+|Lidl Rattgatan|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/138612/xs/138612.jpg|,|Bladbegonia|,|SUPERPRIS!|,|49.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/80105/xs/80105.jpg|,|Satsumas|,|2 KG!|,|24.90|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/8255/xs/8255.jpg|,|Färska revben|,|SUPERPRIS!|,|49.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/166383/xs/166383.jpg|,|Kanel malen|,|SUPERPRIS!|,|14.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000548/xs/7000548.jpg|,|Bullar|,|-20 %|,|18.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005305/xs/7005305.jpg|,|Mellanmjölk 1,5%|,|SUPERPRIS!|,|17.90|
+|Lidl Östra Infarten|,|Dryck|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/151952/xs/151952.jpg|,|Juice|,|2 FÖR:|,|35|
+|Lidl Östra Infarten|,|Bröd|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6440/xs/6440.jpg|,|Mellangrova|,|2 FÖR:|,|27|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001280/xs/7001280.jpg|,|Arla yoghurtkvarg|,|SUPERPRIS!|,|24.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000361/xs/7000361.jpg|,|Hushållsost|,|-22%|,|69.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/1346/xs/1346.jpg|,|Bregott|,|-28 %|,|44.90|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/10039/xs/10039.jpg|,|Skinka|,|2 FÖR:|,|35|
+|Lidl Östra Infarten|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/9931/xs/9931.jpg|,|Dafgårds Karins familjelasagne|,|SUPERPRIS!|,|69.90|
+|Lidl Östra Infarten|,|Dryck|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7004814/xs/7004814.jpg|,|Öl Tuborg grön 3,5%|,|24-PACK|,|169|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006540/xs/7006540.jpg|,|Findus pasta|,|SUPERPRIS!|,|49.90|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/159827/xs/159827.jpg|,|Norsk regnbågslax|,|SUPERPRIS!|,|79.90|
+|Lidl Östra Infarten|,|Fryst|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/2906/xs/2906.jpg|,|Billys Pan Pizza|,|SUPERPRIS!|,|89.90|
+|Lidl Östra Infarten|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001570/xs/7001570.jpg|,|Felix soppa|,|SUPERPRIS!|,|20|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005529/xs/7005529.jpg|,|Risenta Linskakor|,|SUPERPRIS!|,|14.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7005998/xs/7005998.jpg|,|Scan köttbullar|,|-25%|,|49.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7001397/xs/7001397.jpg|,|Risenta pumpakärnor|,|SUPERPRIS!|,|24.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6944/xs/6944.jpg|,|Rödbetssallad|,|SUPERPRIS!|,|19.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6200737/xs/6200737.jpg|,|Grekisk yoghurt 0%|,|SUPERPRIS!|,|17.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/3244/xs/3244.jpg|,|Felix rullpack Risgrynsgröt|,|2 FÖR:|,|20|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006651/xs/7006651.jpg|,|Svenskt gårdsvilt hjortstek benfri|,|SUPERPRIS!|,|299|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7709440/xs/7709440.jpg|,|Rådjursstek|,|SUPERPRIS!|,|199|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/180182/xs/180182.jpg|,|Hamburgare av hjortfärs|,|SUPERPRIS!|,|39.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6508826/xs/6508826.jpg|,|Rårörda lingon 50%|,|-21 %|,|29.90|
+|Lidl Östra Infarten|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7709917/xs/7709917.jpg|,|Viltgryta|,|SUPERPRIS!|,|89.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7006293/xs/7006293.jpg|,|Skånemejerier vispgrädde|,|SUPERPRIS!|,|22.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/139650/xs/139650.jpg|,|Cornichons premium|,|-33%|,|9.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/83016/xs/83016.jpg|,|Champinjoner|,|MINST -37 %|,|14.90|
+|Lidl Östra Infarten|,|Kött|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/139016/xs/139016.jpg|,|Salami med viltkött|,|SUPERPRIS!|,|24.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/120716/xs/120716.jpg|,|Ost med frukt & nötter|,|NULL|,|39.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5600059/xs/5600059.jpg|,|Munsterost|,|SUPERPRIS!|,|24.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5236/xs/5236.jpg|,|Blue Stilton|,|NULL|,|39.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5102986/xs/5102986.jpg|,|Schweiziska ostar|,|NULL|,|44.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5704255/xs/5704255.jpg|,|Spansk lagrad ost|,|NULL|,|44.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/5604400/xs/5604400.jpg|,|Ost med calvados|,|NULL|,|49.90|
+|Lidl Östra Infarten|,|Skafferi|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7000874/xs/7000874.jpg|,|Göteborgs kex utvalda Salinas|,|SUPERPRIS!|,|19.90|
+|Lidl Östra Infarten|,|Färdigmat|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/131260/xs/131260.jpg|,|Chutney|,|NULL|,|17.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/48339/xs/48339.jpg|,|Fylld vitmögelost|,|SUPERPRIS!|,|34.90|
+|Lidl Östra Infarten|,|Mejeri|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6603457/xs/6603457.jpg|,|Smaksatt goudaost|,|NULL|,|29.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/7205451/xs/7205451.jpg|,|Kashkaval|,|NULL|,|49.90|
+|Lidl Östra Infarten|,|Frukt & grönt|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/6000888/xs/6000888.jpg|,|Scamorzaost|,|SUPERPRIS!|,|29.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/59796/xs/59796.jpg|,|St Paulia|,|SUPERPRIS!|,|29.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/62705/xs/62705.jpg|,|Vriesea och juvelblomma|,|NULL|,|79.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/119836/xs/119836.jpg|,|Keramikkruka ”Stone”|,|NULL|,|39.90|
+|Lidl Östra Infarten|,|Diverse|,|https://se.cat-ret.assets.lidl/catalog5media/se/article/138612/xs/138612.jpg|,|Bladbegonia|,|SUPERPRIS!|,|49.90|
