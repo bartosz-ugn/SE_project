@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "Karlstads universitet, Universitetsgatan 2, 656 37 Karlstad, Sweden" ],
+   "origin_addresses" : [ "Hedgatan 10, 691 35 Karlskoga, Sweden" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "60.6 km",
+                  "value" : 60551
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2652
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
