@@ -25,7 +25,7 @@ public class FAQ extends AppCompatActivity {
 
     List<String> groupList;
     List<String> childList;
-    Map<String, List<String>> mobileCollection;
+    Map<String, List<String>> questionCollection;
     ExpandableListView expandableListView;
     ExpandableListAdapter expandableListAdapter;
 
@@ -36,7 +36,7 @@ public class FAQ extends AppCompatActivity {
         createGroupList();
         createCollection();
         expandableListView = findViewById(R.id.elvMobiles);
-        expandableListAdapter = new MyExpandableListAdapter(this, groupList, mobileCollection);
+        expandableListAdapter = new MyExpandableListAdapter(this, groupList, questionCollection);
         expandableListView.setAdapter(expandableListAdapter);
         expandableListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
             int lastExpandedPosition = -1;
@@ -65,7 +65,7 @@ public class FAQ extends AppCompatActivity {
         String[] answer4 = {"svar4"};
         String[] answer5 = {"svar5"};
         String[] answer6 = { "svar6"};
-        mobileCollection = new HashMap<String, List<String>>();
+        questionCollection = new HashMap<String, List<String>>();
         for(String group : groupList){
             if (group.equals(question1)){
                 loadChild(answer1);
@@ -80,7 +80,7 @@ public class FAQ extends AppCompatActivity {
             else if (group.equals(question6))
                 loadChild(answer6);
 
-            mobileCollection.put(group, childList);
+            questionCollection.put(group, childList);
         }
     }
 
