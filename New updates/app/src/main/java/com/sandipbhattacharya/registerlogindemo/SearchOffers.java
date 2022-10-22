@@ -37,7 +37,7 @@ import org.json.JSONObject;
 
 public class SearchOffers extends AppCompatActivity {
     //Connection to database
-    private static final String BASE_URL = "http://169.254.199.252/login/getProducts.php";
+    private static final String BASE_URL = "http://169.254.65.225/login/getProducts.php";
    // private List<Product> products;
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager manager;

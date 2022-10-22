@@ -10,4 +10,5 @@ public class Store {
         this.distance = distance;
     }
     public String getDestination(){ return this.destination;}
+    public String getDistance(){ return this.distance;}
 }

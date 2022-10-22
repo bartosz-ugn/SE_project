@@ -19,6 +19,7 @@ import android.os.Build;
 import android.os.Bundle;
 
 import android.os.Looper;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -75,11 +76,12 @@ public class FindStores extends AppCompatActivity {
         LocationButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               // getStores();
-                stores.add(new Store("dest", "distance"));
+                getStores();
+              //  stores.add(new Store("dest", "distance"));
                // Toast.makeText(FindStores.this, stores.get(0).getDestination(), Toast.LENGTH_SHORT).show();
-                TextView tv1 = (TextView)findViewById(R.id.addressText);
-                tv1.setText(stores.get(0).getDestination());
+              //  TextView tv1 = (TextView)findViewById(R.id.addressText);
+              // tv1.setText(stores.get(0).getDistance());
+              //  Toast.makeText(FindStores.this, stores.get(0).getDistance(), Toast.LENGTH_SHORT).show();
               //  getCurrentLocation();
 
             }
@@ -204,25 +206,28 @@ public class FindStores extends AppCompatActivity {
     }
 
     private void getStores(){
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, "link to json", new Response.Listener<String>() {
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://maps.googleapis.com/maps/api/distancematrix/json?origins=59.406399%2C13.582588&destinations=59.3771276%2C13.4218131%7C59.3916196%2C13.5147869%7C59.3777293%2C13.5145273%7C59.4027675%2C13.5695857%7C59.4039056%2C13.5465732%7C59.38025%2C13.4979895%7C59.3994657%2C13.4939257%7C59.3808438%2C13.4685619%7C59.3961768%2C13.5736277%7C59.3928402%2C13.5148258%7C59.3850276%2C13.4613525%7C59.3764635%2C13.4264735%7C59.381922%2C13.5111035%7C59.4348012%2C13.4380523%7C59.3769894%2C13.4886377%7C59.4777719%2C13.5835949%7C59.3833827%2C13.4838114%7C59.3966059%2C13.5783006%7C59.3774266%2C13.506715%7C59.3878508%2C13.4797013%7C59.3868358%2C13.473497%7C59.3980399%2C13.5328977%7C&key=AIzaSyCL1ZwGhfwaU4RxoP1mw8fD5dpZMhBrOts", new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
                 try{
-                    JSONArray array = new JSONArray(response);
-                    for(int i = 0; i < array.length(); i++){
-                        JSONObject object = array.getJSONObject(i)
-                                .getJSONArray("rows")
-                                .getJSONObject(0)
-                                .getJSONArray ("elements")
-                                .getJSONObject(0)
-                                .getJSONObject("distance");
-                        String distance = object.get("distance").toString();
-
-                        Store store = new Store("destination", distance);
-                        stores.add(store);
-                    }
+                    JSONObject responseJSON = new JSONObject(response);
+                    //get distance
+                    JSONObject objectDist = responseJSON.getJSONArray("rows")
+                            .getJSONObject(0)
+                            .getJSONArray("elements")
+                            .getJSONObject(0)
+                            .getJSONObject("distance");
+                    String distance = objectDist.getString("text");
+                    //get destination
+                    String destination = responseJSON.get("destination_addresses").toString();
+                    //function that removes [, ], "
+                    destination = clearAddress(destination);
+                    Toast.makeText(FindStores.this, destination, Toast.LENGTH_SHORT).show();
+                    //add store to the list
+                    Store store = new Store(destination, distance);
+                    stores.add(store);
                 }catch(Exception e){
-
+                    Toast.makeText(FindStores.this, "ERROR!!!", Toast.LENGTH_SHORT).show();
                 }
             }
         }, new Response.ErrorListener() {
@@ -235,4 +240,14 @@ public class FindStores extends AppCompatActivity {
         requestQueue.add(stringRequest);
     }
 
+    private String clearAddress(String destination_addr){
+        StringBuilder stringBuilderDestinationAddr = new StringBuilder();
+
+        for (int i = 0; i < destination_addr.length(); i++)
+            if (destination_addr.charAt(i) != '[' && destination_addr.charAt(i) != ']' && destination_addr.charAt(i) != '"')
+                stringBuilderDestinationAddr.append(destination_addr.charAt(i));
+
+        String strCleanDestination = stringBuilderDestinationAddr.toString();
+        return strCleanDestination;
+    }
 }
