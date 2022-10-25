@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
                         finish();
                     } else if (response.equals("failure")) {
                         Toast.makeText(MainActivity.this, "Invalid Login Id/Password", Toast.LENGTH_SHORT).show();
+                    }else{
+                        Toast.makeText(MainActivity.this, response, Toast.LENGTH_SHORT).show();
                     }
                 }
             }, new Response.ErrorListener() {

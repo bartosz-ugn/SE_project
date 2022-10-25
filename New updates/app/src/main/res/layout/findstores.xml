@@ -8,20 +8,18 @@
     tools:context=".MainActivity">
 
 
-    <TextView
-        android:id="@+id/addressText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@android:color/black"
-        android:textSize="19sp" />
+    <Button
+        android:id="@+id/with_gps"
+        android:layout_width="189dp"
+        android:layout_height="90dp"
+        android:text="find stores with gps"
+        android:textSize="20sp" />
 
     <Button
-        android:id="@+id/locationButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Enable GPS"
-        android:textAllCaps="false"
-        android:textSize="19sp" />
+        android:id="@+id/without_gps"
+        android:layout_width="189dp"
+        android:layout_height="98dp"
+        android:text="find stores without gps"
+        android:textSize="20sp" />
 
 </LinearLayout>

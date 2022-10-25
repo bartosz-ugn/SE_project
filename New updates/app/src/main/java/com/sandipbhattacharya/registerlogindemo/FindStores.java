@@ -57,34 +57,32 @@ public class FindStores extends AppCompatActivity {
     private Button LocationButton;
     private LocationRequest locationRequest;
     List<Store> stores;
-
+    private Button WithGPSButton;
+    private Button WithoutGPSButton;
+    static double pos[] = {0.00, 0.00};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.findstores);
-
         stores = new ArrayList<>();
+        WithGPSButton = findViewById(R.id.with_gps);
+        WithoutGPSButton = findViewById(R.id.without_gps);
 
-        AddressText = findViewById(R.id.addressText);
-        LocationButton = findViewById(R.id.locationButton);
+        locationRequest = LocationRequest.create();
+        locationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
+        locationRequest.setInterval(5000);
+        locationRequest.setFastestInterval(2000);
 
-       // locationRequest = LocationRequest.create();
-      //  locationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
-       // locationRequest.setInterval(5000);
-       // locationRequest.setFastestInterval(2000);
-
-        LocationButton.setOnClickListener(new View.OnClickListener() {
+        WithGPSButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                getStores();
-              //  stores.add(new Store("dest", "distance"));
-               // Toast.makeText(FindStores.this, stores.get(0).getDestination(), Toast.LENGTH_SHORT).show();
-              //  TextView tv1 = (TextView)findViewById(R.id.addressText);
-              // tv1.setText(stores.get(0).getDistance());
-              //  Toast.makeText(FindStores.this, stores.get(0).getDistance(), Toast.LENGTH_SHORT).show();
-              //  getCurrentLocation();
-
+                getCurrentLocation();
             }
+        });
+
+        WithoutGPSButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) { startActivity(new Intent(FindStores.this, Success.class)); }
         });
     }
 
@@ -99,10 +97,6 @@ public class FindStores extends AppCompatActivity {
                     turnOnGPS();
                 }
             }
-            if (grantResults[0] == PackageManager.PERMISSION_DENIED){
-                Intent intent = new Intent(FindStores.this, Success.class);
-                startActivity(intent);
-            }
         }
     }
 
@@ -116,7 +110,7 @@ public class FindStores extends AppCompatActivity {
         }
     }
 
-    private void getCurrentLocation() {
+    public void getCurrentLocation() {
         LocationManager lm = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             if (ActivityCompat.checkSelfPermission(FindStores.this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
@@ -133,13 +127,14 @@ public class FindStores extends AppCompatActivity {
                                         double latitude = locationResult.getLocations().get(index).getLatitude();
                                         double longitude = locationResult.getLocations().get(index).getLongitude();
 
-                                        //float distance[] = new float[1];
-                                        //Location.distanceBetween(59.4063335, 13.578511, 59.4047052,13.5762343, distance);
-                                        //https://maps.googleapis.com/maps/api/distancematrix/json?origins=&destinations=&key=AIzaSyBNvIUPvD106wLBO9sbA_-D4pdm1L7Ky4Q
-                                        //https://maps.googleapis.com/maps/api/distancematrix/json?origins=59.4063335%2C13.578511&destinations=59.4047052%2C13.5762343&key=AIzaSyCL1ZwGhfwaU4RxoP1mw8fD5dpZMhBrOts
+                                        pos[0] = latitude;
+                                        pos[1] = longitude;
 
-                                        AddressText.setText(String.format("Position:\n" + latitude + "\n" + longitude));
-                                        //Location.distanceBetween(59.4063335, 13.578511, 59.4047052,13.5762343, distance);
+                                        // You can access the user position from any file using FindStores.pos[0]
+                                        // and FindStores.pos[1] AFTER THE USER HAS PRESSED THE "FIND STORES WITH
+                                        // GPS" BUTTON AND HAS GRANTED GPS PERMISSION
+
+                                        startActivity(new Intent(FindStores.this, Success.class));
                                     }
                                 }
                             }, Looper.getMainLooper());
@@ -183,7 +178,7 @@ public class FindStores extends AppCompatActivity {
                             break;
 
                         case LocationSettingsStatusCodes.SETTINGS_CHANGE_UNAVAILABLE:
-                            //Device does not have location
+                            Toast.makeText(FindStores.this, "No location?", Toast.LENGTH_SHORT).show();
                             break;
                     }
                 }
@@ -206,26 +201,28 @@ public class FindStores extends AppCompatActivity {
     }
 
     private void getStores(){
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, "https://maps.googleapis.com/maps/api/distancematrix/json?origins=59.406399%2C13.582588&destinations=59.3771276%2C13.4218131%7C59.3916196%2C13.5147869%7C59.3777293%2C13.5145273%7C59.4027675%2C13.5695857%7C59.4039056%2C13.5465732%7C59.38025%2C13.4979895%7C59.3994657%2C13.4939257%7C59.3808438%2C13.4685619%7C59.3961768%2C13.5736277%7C59.3928402%2C13.5148258%7C59.3850276%2C13.4613525%7C59.3764635%2C13.4264735%7C59.381922%2C13.5111035%7C59.4348012%2C13.4380523%7C59.3769894%2C13.4886377%7C59.4777719%2C13.5835949%7C59.3833827%2C13.4838114%7C59.3966059%2C13.5783006%7C59.3774266%2C13.506715%7C59.3878508%2C13.4797013%7C59.3868358%2C13.473497%7C59.3980399%2C13.5328977%7C&key=AIzaSyCL1ZwGhfwaU4RxoP1mw8fD5dpZMhBrOts", new Response.Listener<String>() {
+        String URL_string = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=59.406399%2C13.582588&destinations=59.3771276%2C13.4218131%7C59.3916196%2C13.5147869%7C59.3777293%2C13.5145273%7C59.4027675%2C13.5695857%7C59.4039056%2C13.5465732%7C59.38025%2C13.4979895%7C59.3994657%2C13.4939257%7C59.3808438%2C13.4685619%7C59.3961768%2C13.5736277%7C59.3928402%2C13.5148258%7C59.3850276%2C13.4613525%7C59.3764635%2C13.4264735%7C59.381922%2C13.5111035%7C59.4348012%2C13.4380523%7C59.3769894%2C13.4886377%7C59.4777719%2C13.5835949%7C59.3833827%2C13.4838114%7C59.3966059%2C13.5783006%7C59.3774266%2C13.506715%7C59.3878508%2C13.4797013%7C59.3868358%2C13.473497%7C59.3980399%2C13.5328977%7C&key=AIzaSyCL1ZwGhfwaU4RxoP1mw8fD5dpZMhBrOts";
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, URL_string, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
                 try{
                     JSONObject responseJSON = new JSONObject(response);
-                    //get distance
-                    JSONObject objectDist = responseJSON.getJSONArray("rows")
-                            .getJSONObject(0)
-                            .getJSONArray("elements")
-                            .getJSONObject(0)
-                            .getJSONObject("distance");
-                    String distance = objectDist.getString("text");
-                    //get destination
+                  //  JSONArray array = new JSONArray(response);
                     String destination = responseJSON.get("destination_addresses").toString();
-                    //function that removes [, ], "
-                    destination = clearAddress(destination);
-                    Toast.makeText(FindStores.this, destination, Toast.LENGTH_SHORT).show();
-                    //add store to the list
-                    Store store = new Store(destination, distance);
-                    stores.add(store);
+
+                    JSONObject objectDist = responseJSON.getJSONArray("rows")
+                                            .getJSONObject(0);
+                    JSONArray jsonarr = objectDist.getJSONArray("elements");
+                //    Log.d("test", String.valueOf(jsonarr.length()));
+                    String[] distances = new String[jsonarr.length()];
+                    for(int i = 0; i < jsonarr.length(); i++){
+                        JSONObject jsonobj= jsonarr.getJSONObject(i);
+                        JSONObject jsondist = jsonobj.getJSONObject("distance");
+                        String distance = jsondist.getString("text");
+                        distances[i] = distance;
+                    }
+                    parseAddresses(destination, distances);
+
                 }catch(Exception e){
                     Toast.makeText(FindStores.this, "ERROR!!!", Toast.LENGTH_SHORT).show();
                 }
@@ -244,10 +241,30 @@ public class FindStores extends AppCompatActivity {
         StringBuilder stringBuilderDestinationAddr = new StringBuilder();
 
         for (int i = 0; i < destination_addr.length(); i++)
-            if (destination_addr.charAt(i) != '[' && destination_addr.charAt(i) != ']' && destination_addr.charAt(i) != '"')
+            if (destination_addr.charAt(i) != '[' && /*destination_addr.charAt(i) != ']' && */destination_addr.charAt(i) != '"')
                 stringBuilderDestinationAddr.append(destination_addr.charAt(i));
 
         String strCleanDestination = stringBuilderDestinationAddr.toString();
         return strCleanDestination;
+    }
+
+    private void parseAddresses(String addr, String[] dist){
+        StringBuilder strBldr = new StringBuilder();
+        int z = 0;
+        for (int i = 0; i < addr.length(); i++){
+            if(addr.charAt(i) == ',' || addr.charAt(i) == ']'){
+                if(addr.charAt(i-1) == '"') {
+                    String destination = strBldr.toString();
+                    destination = clearAddress(destination);
+                    Store store = new Store(destination, dist[z]);
+                //    Log.i("parser", "dest: " + store.getDestination() + " dist: " + store.getDistance());
+                    stores.add(store);
+                    z++;
+                    strBldr.setLength(0);
+                }
+            }else{
+                strBldr.append(addr.charAt(i));
+            }
+        }
     }
 }

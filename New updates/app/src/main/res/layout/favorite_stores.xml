@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/CardView.Light"
+    android:layout_marginTop="8dp"
+    android:background="@color/white"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:text="Select Your Favourite Stores"
+        android:textStyle="bold"/>
+
+
+
+    <ImageView
+        android:id="@+id/favlidl"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/lidl"
+        android:scaleType="centerCrop"/>
+
+
+
+    <ImageView
+        android:id="@+id/favwillys"
+        android:layout_width="60dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-20dp"
+        android:layout_marginRight="-65dp"
+        android:src="@drawable/willys"
+        android:scaleType="centerCrop"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="Lidl Rattgatan\nLidl Östrainfarten"/>
+
+    <CheckBox
+        android:id="@+id/lidlrattgatan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-55dp"/>
+
+    <CheckBox
+        android:id="@+id/lidlostrainfarten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+
+
+
+    <TextView
+        android:layout_marginLeft="200dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-55dp"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="Willys Bryggudden\nWillys Våxnäs"/>
+
+
+    <CheckBox
+        android:id="@+id/willysbryggudden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-56dp"/>
+
+    <CheckBox
+        android:id="@+id/willysvaxnas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+
+
+
+
+    <ImageView
+        android:id="@+id/favcoop"
+        android:layout_marginTop="10dp"
+        android:layout_width="60dp"
+        android:layout_height="20dp"
+        android:src="@drawable/coop"
+        android:scaleType="centerCrop"/>
+
+
+    <ImageView
+        android:id="@+id/favica"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="-65dp"
+        android:layout_marginTop="-20dp"
+        android:src="@drawable/ica" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="Stora Coop Bergvik\nCoop Norrstrand\nCoop Herrhagen\nCoop Kronoparken\nCoop Kroppkärr\nCoop City\nCoop Råtorp\nCoop Strand\nStora Coop Välsviken"/>
+
+    <CheckBox
+        android:id="@+id/coopbergvik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-188dp"/>
+
+    <CheckBox
+        android:id="@+id/coopnorrstrand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopherrhagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopkronoparken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopkroppkarr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopcity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopratorp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+    <CheckBox
+        android:id="@+id/coopstrand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/coopvalsviken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="-29dp"/>
+
+
+
+    <TextView
+        android:layout_marginLeft="188dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-190dp"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="Ica Wallinders\nIca Nära Kärnan\nIca Maxi Bergvik\nIca Hagahallen\nIca Skåre\nIca Nära Viken\nIca Nära Mossbergs\nIca Fanfaren\nIca Maxi Välsviken"/>
+
+    <CheckBox
+        android:id="@+id/icawallinders"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-188dp"/>
+
+    <CheckBox
+        android:id="@+id/icanarakarnan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icamaxibergvik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icahagahallen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icaskare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icanaraviken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icanaramossbergs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icafanfaren"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+    <CheckBox
+        android:id="@+id/icamaxivalsviken"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="345dp"
+        android:layout_marginTop="-29dp"/>
+
+
+    <Button
+        android:id="@+id/favsave"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="Save" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="My Favourite Stores"
+        android:textColor="#00ab41"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/showfav"
+        android:layout_width="390dp"
+        android:layout_height="119dp"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

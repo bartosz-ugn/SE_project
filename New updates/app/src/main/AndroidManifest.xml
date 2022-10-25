@@ -8,7 +8,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="Price Tracker"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RegisterLoginDemo"
@@ -31,6 +31,8 @@
         <activity android:name=".FindStores">
         </activity>
         <activity android:name=".FAQ">
+        </activity>
+        <activity android:name=".FavoriteStores">
         </activity>
     </application>
 
