@@ -1,10 +1,10 @@
 <?php
 include "connProd.php";
 
-$stmt = $conn->prepare("SELECT IMAGE, TITLE, CAMPAIGN, PRICE FROM product");
+$stmt = $conn->prepare("SELECT IMAGE, TITLE, CAMPAIGN, PRICE, STORE FROM product");
 
 $stmt ->execute();
-$stmt ->bind_result($image, $title, $campaign, $price);
+$stmt ->bind_result($image, $title, $campaign, $price, $store);
 
 $products = array();
 
@@ -15,6 +15,7 @@ while($stmt -> fetch()){
   $temp['title'] = $title;
   $temp['campaign'] = $campaign;
   $temp['price'] = $price;
+  $temp['store'] = $store;
 
   array_push($products, $temp);
 }
