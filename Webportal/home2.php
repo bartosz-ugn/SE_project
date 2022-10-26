@@ -1,5 +1,5 @@
 <?php 
-
+ob_start();
 include "dbconnection2.php";
 session_start();
 $is_empty = "SELECT * FROM Product";
@@ -7,18 +7,13 @@ $result_empty = mysqli_query($db,$is_empty);
 if(!mysqli_num_rows($result_empty)){
      $query = "LOAD DATA INFILE 'output.txt' INTO TABLE Product FIELDS TERMINATED BY ',' ENCLOSED BY '|' LINES TERMINATED BY '\r\n'";
      $result = mysqli_query($db,$query);
-     if(!$result)
-     {
+     if(!$result){
      echo("<P>Error performing query: </P>");
      }
 }
 
-
 if (isset($_SESSION['ADMIN_NAME'])) {
-
-
-
- ?>
+?>
 
 <!DOCTYPE html>
 
@@ -75,11 +70,10 @@ if (isset($_SESSION['ADMIN_NAME'])) {
           //$to_be_deleted;
           if(isset($_POST['edit'])){
                if(isset($_POST['radio'])){
-                  
                     $_SESSION['prod'] = $_POST['radio'];
-                    echo("<P>Value of tobedeleted: </P>".$_SESSION['prod']);
+                   // echo("<P>Value of tobedeleted: </P>".$_SESSION['prod']);
+                //   location.reload();
                     header("Location: edit.php");
-                    
                }
           }
           if(isset($_POST['delete'])){
@@ -93,10 +87,8 @@ if (isset($_SESSION['ADMIN_NAME'])) {
                     }else{
                          header("Refresh:0");
                     }
-
                }
           }
-
      ?>
      </table>
      </div>
@@ -105,7 +97,6 @@ if (isset($_SESSION['ADMIN_NAME'])) {
 </html>
 
 <?php 
-
 }else{
 
      header("Location: productsdb_login.php");
@@ -113,5 +104,4 @@ if (isset($_SESSION['ADMIN_NAME'])) {
      exit();
 
 }
-
  ?>

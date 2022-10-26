@@ -10,7 +10,6 @@ if(!$result){
 }
 
 if (isset($_SESSION['ADMIN_NAME'])) {
-
  ?>
 
 <!DOCTYPE html>
@@ -69,7 +68,7 @@ if (isset($_SESSION['ADMIN_NAME'])) {
                if(isset($_POST['radio'])){
                   
                     $_SESSION['usr'] = $_POST['radio'];
-                    echo("<P>Value of tobedeleted: </P>".$_SESSION['usr']);
+                    //echo("<P>Value of tobedeleted: </P>".$_SESSION['usr']);
                     header("Location: edit_user.php");
                     
                }
