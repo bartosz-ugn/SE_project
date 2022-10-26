@@ -24,15 +24,31 @@
         </activity>
         <activity android:name=".Success">
         </activity>
-        <activity android:name=".Register">
+        <activity android:name=".Register"
+            android:label="Register">
         </activity>
-        <activity android:name=".SearchOffers">
+        <activity android:name=".SearchOffers"
+            android:label="Search offers">
         </activity>
         <activity android:name=".FindStores">
         </activity>
-        <activity android:name=".FAQ">
+        <activity android:name=".FAQ"
+            android:label="FAQ">
         </activity>
-        <activity android:name=".FavoriteStores">
+        <activity android:name=".FavoriteStores"
+            android:label="Favorite Stores">
+        </activity>
+        <activity android:name=".WithoutGPS">
+        </activity>
+        <activity android:name=".WithGPS">
+        </activity>
+        <activity android:name=".FAQ2">
+        </activity>
+        <activity android:name=".Success2">
+        </activity>
+        <activity android:name=".FindStores2">
+        </activity>
+        <activity android:name=".FavoriteStores2">
         </activity>
     </application>
 

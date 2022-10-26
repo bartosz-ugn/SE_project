@@ -1,5 +1,6 @@
 package com.sandipbhattacharya.registerlogindemo;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -19,7 +20,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
 
     public Context context;
     public List<Product> items = new ArrayList<>();
-    // public List<Product> getProductListFilter = new ArrayList<>();
 
     public void setFilteredList(List<Product> filteredList) {
         this.items = filteredList;
@@ -38,6 +38,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
         return new MyViewHolder(LayoutInflater.from(context).inflate(R.layout.item_view, parent, false));
     }
 
+    @SuppressLint("SetTextI18n")
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
         holder.titleView.setText(items.get(position).getTitle());

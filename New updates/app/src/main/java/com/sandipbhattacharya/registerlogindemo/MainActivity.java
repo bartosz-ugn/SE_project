@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("res", response);
                     if (response.equals("success")) {
                         Intent intent = new Intent(MainActivity.this, Success.class);
+                        intent.putExtra("email", email);
                         startActivity(intent);
                         finish();
                     } else if (response.equals("failure")) {
