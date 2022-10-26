@@ -83,7 +83,7 @@
         android:layout_marginTop="29dp"
         android:layout_marginRight="30dp"
         android:background="#AF3800"
-        android:text="FOS"
+        android:text="FAQ"
         android:textSize="16dp"/>
 
 

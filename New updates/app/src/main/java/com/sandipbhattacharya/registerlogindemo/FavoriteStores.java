@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
@@ -11,12 +12,18 @@ import android.widget.TextClock;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
+import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
+import com.google.firebase.crashlytics.buildtools.reloc.org.apache.http.client.HttpClient;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class FavoriteStores extends AppCompatActivity {
     private CheckBox lidl1, lidl2,
@@ -101,7 +108,7 @@ public class FavoriteStores extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (willys2.isChecked())
-                    stores.add("Willys Våxnas");
+                    stores.add("Willys Våxnäs");
                 else
                     stores.remove("Willys Våxnäs");
             }
@@ -112,7 +119,7 @@ public class FavoriteStores extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (coop1.isChecked())
-                    stores.add("Stora Coop Bergvik");
+                    stores.add("Coop Bergvik");
                 else
                     stores.remove("Stora Coop Bergvik");
             }
@@ -296,7 +303,9 @@ public class FavoriteStores extends AppCompatActivity {
         result.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                addToDB();
                 StringBuilder stringBuilder = new StringBuilder();
+                stringBuilder.setLength(0);
                 for (String s : stores)
                     stringBuilder.append(s).append(", ").append("\t");
 
@@ -306,4 +315,69 @@ public class FavoriteStores extends AppCompatActivity {
             }
         });
        }
+
+    public void addToDB(){
+        clearUserInfo();
+        for(int i = 0; i < stores.size(); i++){
+            addFavorite(stores.get(i));
+        }
+    }
+
+    public void clearUserInfo(){
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, "http://169.254.65.225/login/clearUserInfo.php", new Response.Listener<String>() {
+            @Override
+            public void onResponse(String response) {
+
+                if (response.equals("success")) {
+                    Toast.makeText(FavoriteStores.this, "Updating...", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(FavoriteStores.this, response, Toast.LENGTH_SHORT).show();
+                }
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Toast.makeText(FavoriteStores.this, error.toString().trim(), Toast.LENGTH_SHORT).show();
+            }
+        }){
+            @Override
+            protected Map<String, String> getParams() throws AuthFailureError {
+                Map<String, String> data = new HashMap<>();
+                data.put("username", MainActivity.usern);
+                return data;
+            }
+        };
+        RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
+        requestQueue.add(stringRequest);
+    }
+
+    public void addFavorite(String storename) {
+            StringRequest stringRequest = new StringRequest(Request.Method.POST, "http://169.254.65.225/login/setFavorite.php", new Response.Listener<String>() {
+                @Override
+                public void onResponse(String response) {
+                    Log.d("res", response);
+                    if (response.equals("success")) {
+                        Toast.makeText(FavoriteStores.this, "Favorite stores updated!", Toast.LENGTH_LONG).show();
+                    } else {
+                        Toast.makeText(FavoriteStores.this, response, Toast.LENGTH_SHORT).show();
+                    }
+                }
+            }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    Toast.makeText(FavoriteStores.this, error.toString().trim(), Toast.LENGTH_SHORT).show();
+                }
+            }){
+                @Override
+                protected Map<String, String> getParams() throws AuthFailureError {
+                    Map<String, String> data = new HashMap<>();
+                    data.put("storename", storename);
+                    data.put("username", MainActivity.usern);
+                    return data;
+                }
+            };
+        RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
+        requestQueue.add(stringRequest);
+    }
+
 }

@@ -28,7 +28,7 @@
             android:label="Register">
         </activity>
         <activity android:name=".SearchOffers"
-            android:label="Search offers">
+            android:label="Sök erbjudanden">
         </activity>
         <activity android:name=".FindStores">
         </activity>
@@ -36,7 +36,7 @@
             android:label="FAQ">
         </activity>
         <activity android:name=".FavoriteStores"
-            android:label="Favorite Stores">
+            android:label="Favorita Butiker">
         </activity>
         <activity android:name=".WithoutGPS">
         </activity>

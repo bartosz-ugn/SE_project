@@ -104,7 +104,8 @@ public class WithGPS extends AppCompatActivity {
                 Toast.makeText(WithGPS.this, error.toString().trim(), Toast.LENGTH_SHORT).show();
             }
         });
-        Toast.makeText(WithGPS.this, "Calculating distances...", Toast.LENGTH_SHORT).show();
+        Toast.makeText(WithGPS.this, "Calculating distances...", Toast.LENGTH_LONG).show();
+        Toast.makeText(WithGPS.this, "Calculating distances...", Toast.LENGTH_LONG).show();
         RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
         requestQueue.add(stringRequest);
     }

@@ -1,6 +1,9 @@
 package com.sandipbhattacharya.registerlogindemo;
 
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -9,6 +12,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
@@ -23,10 +28,18 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static String usern;
     private EditText etEmail, etPassword;
     private String email, password;
     private Button button1;
     private String URL = "http://169.254.65.225/login/login.php";
+
+    private boolean icaUpdate = true;
+    private boolean coopUpdate = true;
+    private boolean willysUpdate = true;
+    private boolean lidlUpdate = true;
+    private boolean other = false;
+
 
 
     @Override
@@ -47,8 +60,10 @@ public class MainActivity extends AppCompatActivity {
                 public void onResponse(String response) {
                     Log.d("res", response);
                     if (response.equals("success")) {
+                        notification();
                         Intent intent = new Intent(MainActivity.this, Success.class);
                         intent.putExtra("email", email);
+                        usern = email;
                         startActivity(intent);
                         finish();
                     } else if (response.equals("failure")) {
@@ -86,5 +101,50 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }
 
+    public void notification(){
+        if(icaUpdate || coopUpdate || willysUpdate || lidlUpdate) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                NotificationChannel channel = new NotificationChannel("my notification", "my notification", NotificationManager.IMPORTANCE_DEFAULT);
+                NotificationManager manager = getSystemService(NotificationManager.class);
+                manager.createNotificationChannel(channel);
+            }
 
+            NotificationCompat.Builder builder = new NotificationCompat.Builder(MainActivity.this, "my notification");
+            builder.setContentTitle("Check out new offers!");
+            String stores = "";
+            if (icaUpdate) {
+                stores = stores.concat("ICA ");
+                other = true;
+            }
+            if (coopUpdate) {
+                if(other)
+                    stores = stores.concat(", COOP ");
+                else {
+                    stores = stores.concat("COOP ");
+                    other = true;
+                }
+            }
+            if (willysUpdate) {
+                if(other)
+                    stores = stores.concat(", WILLY'S ");
+                else {
+                    stores = stores.concat("WILLY'S ");
+                    other = true;
+                }
+            }
+            if (lidlUpdate) {
+                if(other)
+                    stores = stores.concat(", LIDL ");
+                else
+                    stores = stores.concat("LIDL ");
+
+            }
+            builder.setContentText("New offers available in: " + stores);
+            builder.setSmallIcon(R.drawable.ic_launcher_background);
+            builder.setAutoCancel(true);
+
+            NotificationManagerCompat managerCompat = NotificationManagerCompat.from(MainActivity.this);
+            managerCompat.notify(1, builder.build());
+        }
+    }
 }

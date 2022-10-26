@@ -28,13 +28,6 @@ public class Success extends AppCompatActivity {
     private Button favorite_button;
     private Button english;
 
-
-    private boolean icaUpdate = false;
-    private boolean coopUpdate = false;
-    private boolean willysUpdate = false;
-    private boolean lidlUpdate = false;
-    private boolean other = false;
-
     TextView user;
     public static String user_email;
     int flag = -1;
@@ -63,50 +56,6 @@ public class Success extends AppCompatActivity {
         favorite_button = findViewById(R.id.favoritestores_button);
         english = findViewById(R.id.language);
 
-        if(icaUpdate || coopUpdate || willysUpdate || lidlUpdate) {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-                NotificationChannel channel = new NotificationChannel("my notification", "my notification", NotificationManager.IMPORTANCE_DEFAULT);
-                NotificationManager manager = getSystemService(NotificationManager.class);
-                manager.createNotificationChannel(channel);
-            }
-
-            NotificationCompat.Builder builder = new NotificationCompat.Builder(Success.this, "my notification");
-            builder.setContentTitle("Check out new offers!");
-            String stores = "";
-            if (icaUpdate) {
-                stores = stores.concat("ICA ");
-                other = true;
-            }
-            if (coopUpdate) {
-                if(other)
-                    stores = stores.concat(", COOP ");
-                else {
-                    stores = stores.concat("COOP ");
-                    other = true;
-                }
-            }
-            if (willysUpdate) {
-                if(other)
-                    stores = stores.concat(", WILLY'S ");
-                else {
-                    stores = stores.concat("WILLY'S ");
-                    other = true;
-                }
-            }
-            if (lidlUpdate) {
-                if(other)
-                    stores = stores.concat(", LIDL ");
-                else
-                    stores = stores.concat("LIDL ");
-
-            }
-            builder.setContentText("New offers available in: " + stores);
-            builder.setSmallIcon(R.drawable.ic_launcher_background);
-            builder.setAutoCancel(true);
-
-            NotificationManagerCompat managerCompat = NotificationManagerCompat.from(Success.this);
-            managerCompat.notify(1, builder.build());
-        }
         english.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
