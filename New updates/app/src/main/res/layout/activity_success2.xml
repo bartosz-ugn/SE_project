@@ -7,14 +7,13 @@
 
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Success">
+    tools:context=".Success2">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
+        android:layout_marginLeft="85dp"
         android:layout_marginTop="-35dp"
-        android:text="Inloggad som:"
         android:textColor="@color/black"
         android:layout_marginBottom="20dp"
         android:textSize="12dp"
@@ -40,7 +39,7 @@
         android:layout_marginBottom="-152dp"
         android:layout_marginLeft="30dp"
         android:background="#af0000"
-        android:text="Erbjudanden"
+        android:text="Offers"
         android:textSize="18dp"/>
 
 
@@ -52,7 +51,7 @@
         android:layout_marginTop="91dp"
         android:layout_marginRight="30dp"
         android:background="#AF3800"
-        android:text="Hitta Butik"
+        android:text="Find Stores"
         android:textSize="18dp"/>
 
 
@@ -71,7 +70,7 @@
         android:layout_marginLeft="30dp"
         android:background="#AF3800"
         android:layout_marginTop="60dp"
-        android:text="Favorit Butik"
+        android:text="Favorite Stores"
         android:textSize="16dp"/>
 
 
@@ -96,7 +95,7 @@
         android:layout_marginLeft="30dp"
         android:background="#AF3800"
         android:layout_marginTop="70dp"
-        android:text="English"
+        android:text="Svenska"
         android:textSize="15dp"/>
 
 
@@ -109,7 +108,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginRight="30dp"
         android:background="#AF3800"
-        android:text="Logga Ut"
+        android:text="Sign out"
         android:textSize="16dp"/>
 
 

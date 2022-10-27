@@ -19,7 +19,7 @@ import androidx.core.app.NotificationManagerCompat;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
-public class Success extends AppCompatActivity {
+public class Success2 extends AppCompatActivity {
 
     private Button offers_button;
     private Button findstores_button;
@@ -28,25 +28,22 @@ public class Success extends AppCompatActivity {
     private Button favorite_button;
     private Button english;
 
+    private boolean icaUpdate = false;
+    private boolean coopUpdate = false;
+    private boolean willysUpdate = false;
+    private boolean lidlUpdate = false;
+    private boolean other = false;
     TextView user;
-    public static String user_email;
-    int flag = -1;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.success);
-
-        user = findViewById(R.id.showuserinfo);
+        setContentView(R.layout.activity_success2);
+        user=findViewById(R.id.showuserinfo);
         Bundle extras = getIntent().getExtras();
-        if (extras != null) {
-            if (flag == -1) {
-                user_email = extras.getString("email");
-                flag = 1;
-            }
-            if (flag == 1) {
-                user.setText(Success.user_email);
-            }
+        if(extras!=null)
+        {
+            user.setText(Success.user_email);
         }
 
         offers_button = findViewById(R.id.offers_button);
@@ -54,7 +51,52 @@ public class Success extends AppCompatActivity {
         signout_button = findViewById(R.id.signout_button);
         faq_button = findViewById(R.id.faq_button);
         favorite_button = findViewById(R.id.favoritestores_button);
-        english = findViewById(R.id.language);
+        english=findViewById(R.id.language);
+
+        if(icaUpdate || coopUpdate || willysUpdate || lidlUpdate) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                NotificationChannel channel = new NotificationChannel("my notification", "my notification", NotificationManager.IMPORTANCE_DEFAULT);
+                NotificationManager manager = getSystemService(NotificationManager.class);
+                manager.createNotificationChannel(channel);
+            }
+
+            NotificationCompat.Builder builder = new NotificationCompat.Builder(Success2.this, "my notification");
+            builder.setContentTitle("Check out new offers!");
+            String stores = "";
+            if (icaUpdate) {
+                stores = stores.concat("ICA ");
+                other = true;
+            }
+            if (coopUpdate) {
+                if(other)
+                    stores = stores.concat(", COOP ");
+                else {
+                    stores = stores.concat("COOP ");
+                    other = true;
+                }
+            }
+            if (willysUpdate) {
+                if(other)
+                    stores = stores.concat(", WILLY'S ");
+                else {
+                    stores = stores.concat("WILLY'S ");
+                    other = true;
+                }
+            }
+            if (lidlUpdate) {
+                if(other)
+                    stores = stores.concat(", LIDL ");
+                else
+                    stores = stores.concat("LIDL ");
+
+            }
+            builder.setContentText("New offers available in: " + stores);
+            builder.setSmallIcon(R.drawable.ic_launcher_background);
+            builder.setAutoCancel(true);
+
+            NotificationManagerCompat managerCompat = NotificationManagerCompat.from(Success2.this);
+            managerCompat.notify(1, builder.build());
+        }
 
         english.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -62,6 +104,7 @@ public class Success extends AppCompatActivity {
                 openEnglish();
             }
         });
+
         offers_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -95,30 +138,31 @@ public class Success extends AppCompatActivity {
             }
         });
     }
-    public void openEnglish () {
-        Intent intent = new Intent(Success.this, Success2.class);
+
+    public void openEnglish(){
+        Intent intent = new Intent(Success2.this, Success.class);
         startActivity(intent);
     }
 
     public void openSearchOffers(){
-        Intent intent = new Intent(Success.this, SearchOffers.class);
+        Intent intent = new Intent(Success2.this, SearchOffers2.class);
         startActivity(intent);
     }
 
     public void openFindStores(){
-        Intent intent = new Intent(Success.this, FindStores.class);
+        Intent intent = new Intent(Success2.this, FindStores2.class);
         startActivity(intent);
     }
     public void openSignOut(){
-        Intent intent = new Intent(Success.this, MainActivity.class);
+        Intent intent = new Intent(Success2.this, MainActivity.class);
         startActivity(intent);
     }
     public void openFAQ(){
-        Intent intent = new Intent(Success.this, FAQ.class);
+        Intent intent = new Intent(Success2.this, FAQ2.class);
         startActivity(intent);
     }
     public void openFavoriteStores(){
-        Intent intent = new Intent(Success.this, FavoriteStores.class);
+        Intent intent = new Intent(Success2.this, FavoriteStores2.class);
         startActivity(intent);
     }
 }

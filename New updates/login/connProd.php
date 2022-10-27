@@ -3,7 +3,7 @@
 $server="localhost";
 $username="root";
 $password="";
-$database = "bartugni100_dvgc22_user";
+$database = "bartugni100_dvgc22_product";
 
 
 /*($db = mysqli_connect($server, $username, $password, $database);

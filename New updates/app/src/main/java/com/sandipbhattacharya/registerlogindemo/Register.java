@@ -42,6 +42,7 @@ public class Register extends AppCompatActivity {
         name = email = password = reenterPassword = "";
     }
 
+
     public void save(View view) {
         name = etName.getText().toString().trim();
         email = etEmail.getText().toString().trim();
