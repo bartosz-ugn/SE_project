@@ -3,16 +3,7 @@
 $server="localhost";
 $username="root";
 $password="";
-$database = "bartugni100_dvgc22_user";
-
-
-/*($db = mysqli_connect($server, $username, $password, $database);
-
-if(!$db){
-    echo("Could not connect to MySQL server!" . mysqli_connect_error());
-    }
-
-*/
+$database = "register_from_android";
 // Create connection
 $conn = new mysqli($server, $username, $password, $database);
 // Check connection

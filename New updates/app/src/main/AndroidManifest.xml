@@ -2,13 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Price Tracker"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RegisterLoginDemo"
@@ -24,31 +24,7 @@
         </activity>
         <activity android:name=".Success">
         </activity>
-        <activity android:name=".Register"
-            android:label="Register">
-        </activity>
-        <activity android:name=".SearchOffers"
-            android:label="Sök erbjudanden">
-        </activity>
-        <activity android:name=".FindStores">
-        </activity>
-        <activity android:name=".FAQ"
-            android:label="FAQ">
-        </activity>
-        <activity android:name=".FavoriteStores"
-            android:label="Favorita Butiker">
-        </activity>
-        <activity android:name=".WithoutGPS">
-        </activity>
-        <activity android:name=".WithGPS">
-        </activity>
-        <activity android:name=".FAQ2">
-        </activity>
-        <activity android:name=".Success2">
-        </activity>
-        <activity android:name=".FindStores2">
-        </activity>
-        <activity android:name=".FavoriteStores2">
+        <activity android:name=".Register">
         </activity>
     </application>
 

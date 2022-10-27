@@ -3,21 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/activity_main.xml" value="0.24587706146926536" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/activity_success2.xml" value="0.12487335359675786" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/child_item.xml" value="0.35213675213675216" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/faq.xml" value="0.4166666666666667" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/favorite_stores.xml" value="0.19791666666666666" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/findstores.xml" value="0.5616438356164384" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/group_item.xml" value="0.4166666666666667" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/item_view.xml" value="0.33" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/register.xml" value="0.146403242147923" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/searchoffers.xml" value="0.33" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/store_view.xml" value="0.23958333333333334" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/success.xml" value="0.5511363636363636" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/withgps.xml" value="0.26313405797101447" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/layout/withoutgps.xml" value="0.23958333333333334" />
-        <entry key="..\:/Users/vvhip/AndroidStudioProjects/uppdateradAPP/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/item_view.xml" value="0.5" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/layout_products.xml" value="0.5" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/products_list_item_layout.xml" value="0.12949502677888294" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/single_item.xml" value="0.33" />
+        <entry key="..\:/Users/vvhip/AndroidStudioProjects/projectapp/app/src/main/res/layout/success.xml" value="0.33" />
       </map>
     </option>
   </component>

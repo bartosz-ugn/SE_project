@@ -1,124 +1,141 @@
 package com.sandipbhattacharya.registerlogindemo;
 
-import android.app.NotificationChannel;
-import android.app.NotificationManager;
-import android.os.Build;
-import android.os.Bundle;
-import android.content.Intent;
-//import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.app.NotificationCompat;
-import androidx.core.app.NotificationManagerCompat;
+import androidx.recyclerview.widget.RecyclerView;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+import com.android.volley.toolbox.StringRequest;
+
+import java.text.DateFormatSymbols;
+import java.util.zip.DataFormatException;
+
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
 import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import java.util.*;
+import org.json.JSONArray;
+import org.json.JSONObject;
+
 
 public class Success extends AppCompatActivity {
+    //Connection to database
+    private static final String BASE_URL = "http://169.254.65.225/login/getProducts.php";
+    private List<Product> products;
+    private RecyclerView recyclerView;
+    private RecyclerView.LayoutManager manager;
+    private RecyclerView.Adapter mAdapter;
 
-    private Button offers_button;
-    private Button findstores_button;
-    private Button signout_button;
-    private Button faq_button;
-    private Button favorite_button;
-    private Button english;
-
-    TextView user;
-    public static String user_email;
-    int flag = -1;
+    List<Product> items;
+    ListView lvProduct;
+   // String[] products = {"Product1", "Product2"};
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
+
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.success);
+        //getting the recyclerview from xml
+        recyclerView = findViewById(R.id.recyclerview);
+        // recyclerView.setHasFixedSize(true);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        items = new ArrayList<Product>();
+      //  items.add(new Product("https://se.cat-ret.assets.lidl/catalog5media/se/article/82031/xs/82031.jpg", "Isbergsallad", "xd", 666));
 
-        user = findViewById(R.id.showuserinfo);
-        Bundle extras = getIntent().getExtras();
-        if (extras != null) {
-            if (flag == -1) {
-                user_email = extras.getString("email");
-                flag = 1;
-            }
-            if (flag == 1) {
-                user.setText(Success.user_email);
-            }
-        }
+        getProducts2();
+        //recyclerView.setAdapter(new MyAdapter(getApplicationContext(),items));
 
-        offers_button = findViewById(R.id.offers_button);
-        findstores_button = findViewById(R.id.findstores_button);
-        signout_button = findViewById(R.id.signout_button);
-        faq_button = findViewById(R.id.faq_button);
-        favorite_button = findViewById(R.id.favoritestores_button);
-        english = findViewById(R.id.language);
 
-        english.setOnClickListener(new View.OnClickListener() {
+    }
+    private void getProducts2(){
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, BASE_URL, new Response.Listener<String>() {
+
             @Override
-            public void onClick(View view) {
-                openEnglish();
+            public void onResponse(String response) {
+                Toast.makeText(Success.this, response, Toast.LENGTH_SHORT).show();
+                try{
+                    JSONArray array = new JSONArray(response);
+                    for(int i = 0; i < array.length(); i++){
+                        JSONObject object = array.getJSONObject(i);
+                        String image = object.getString("image");
+                        String title = object.getString("title");
+                        String campaign = object.getString("campaign");
+                        Integer price = object.getInt("price");
+                        if(!image.contains("https")){
+                           image = ("https:").concat(image);
+                        }
+                        Product product = new Product(image, title, campaign, price);
+                        items.add(product);
+                    }
+                }catch(Exception e){
+
+                }
+
+
+                recyclerView.setAdapter(new MyAdapter(getApplicationContext(),items));
+
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Toast.makeText(Success.this, error.toString().trim(), Toast.LENGTH_SHORT).show();
             }
         });
-        offers_button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openSearchOffers();
-            }
-        });
-
-        findstores_button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openFindStores();
-            }
-        });
-
-        signout_button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                finish();
-                openSignOut();
-            }
-        });
-        faq_button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openFAQ();
-            }
-        });
-        favorite_button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) { openFavoriteStores();
-            }
-        });
-    }
-    public void openEnglish () {
-        Intent intent = new Intent(Success.this, Success2.class);
-        startActivity(intent);
+        RequestQueue requestQueue = Volley.newRequestQueue(getApplicationContext());
+        requestQueue.add(stringRequest);
     }
 
-    public void openSearchOffers(){
-        Intent intent = new Intent(Success.this, SearchOffers.class);
-        startActivity(intent);
-    }
 
-    public void openFindStores(){
-        Intent intent = new Intent(Success.this, FindStores.class);
-        startActivity(intent);
-    }
-    public void openSignOut(){
-        Intent intent = new Intent(Success.this, MainActivity.class);
-        startActivity(intent);
-    }
-    public void openFAQ(){
-        Intent intent = new Intent(Success.this, FAQ.class);
-        startActivity(intent);
-    }
-    public void openFavoriteStores(){
-        Intent intent = new Intent(Success.this, FavoriteStores.class);
-        startActivity(intent);
+    private void getProducts(){
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, BASE_URL, new Response.Listener<String>() {
+
+            @Override
+            public void onResponse(String response) {
+                Toast.makeText(Success.this, response, Toast.LENGTH_SHORT).show();
+                try{
+                    JSONArray array = new JSONArray(response);
+                    for(int i = 0; i < array.length(); i++){
+                        JSONObject object = array.getJSONObject(i);
+                        String image = object.getString("image");
+                        String title = object.getString("title");
+                        String campaign = object.getString("campaign");
+                        Integer price = object.getInt("price");
+
+                        Product product = new Product(image, title, campaign, price);
+                        products.add(product);
+                    }
+                }catch(Exception e){
+
+                }
+
+
+
+
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                Toast.makeText(Success.this, error.toString().trim(), Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 }

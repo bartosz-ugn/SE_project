@@ -14,18 +14,6 @@
             android:layout_height="wrap_content"
             android:padding="8dp">
 
-            <TextView
-                android:id="@+id/storeView"
-                android:layout_width="124dp"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/campaignView"
-                android:layout_marginLeft="142dp"
-                android:layout_marginTop="5dp"
-                android:layout_toRightOf="@id/imageView"
-                android:gravity="center_vertical|right"
-                android:text="Store"
-                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
-
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="120dp"
